@@ -1,0 +1,1843 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-04-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Indore",
+    "dates": [
+      "2018-05-14"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 48
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "GR Sadashiv Iyer"
+      ],
+      "tv_umpires": [
+        "CK Nandan"
+      ],
+      "umpires": [
+        "BNJ Oxenford",
+        "VK Sharma"
+      ]
+    },
+    "outcome": {
+      "winner": "Royal Challengers Bangalore",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "UT Yadav"
+    ],
+    "players": {
+      "Kings XI Punjab": [
+        "KL Rahul",
+        "CH Gayle",
+        "KK Nair",
+        "AJ Finch",
+        "MP Stoinis",
+        "MA Agarwal",
+        "AR Patel",
+        "R Ashwin",
+        "AJ Tye",
+        "MM Sharma",
+        "AS Rajpoot"
+      ],
+      "Royal Challengers Bangalore": [
+        "V Kohli",
+        "PA Patel",
+        "MM Ali",
+        "AB de Villiers",
+        "Mandeep Singh",
+        "SN Khan",
+        "C de Grandhomme",
+        "TG Southee",
+        "UT Yadav",
+        "Mohammed Siraj",
+        "YS Chahal"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB de Villiers": "c4487b84",
+        "AJ Finch": "b8d490fd",
+        "AJ Pycroft": "685d3f80",
+        "AJ Tye": "7c7d63a2",
+        "AR Patel": "2e171977",
+        "AS Rajpoot": "db31895a",
+        "BNJ Oxenford": "c1add349",
+        "C de Grandhomme": "94d7f855",
+        "CH Gayle": "db584dad",
+        "CK Nandan": "012de9c4",
+        "GR Sadashiv Iyer": "0be62e31",
+        "KK Nair": "944533a5",
+        "KL Rahul": "b17e2f24",
+        "MA Agarwal": "00ea847a",
+        "MM Ali": "bb351c23",
+        "MM Sharma": "759ac88f",
+        "MP Stoinis": "d9273ee7",
+        "Mandeep Singh": "c3a96caf",
+        "Mohammed Siraj": "2f49c897",
+        "PA Patel": "b5da6c24",
+        "R Ashwin": "495d42a5",
+        "SN Khan": "f088b960",
+        "TG Southee": "13c35c9e",
+        "UT Yadav": "cc1e8c68",
+        "V Kohli": "ba607b88",
+        "VK Sharma": "a7a49df4",
+        "YS Chahal": "57ee1fde"
+      }
+    },
+    "season": "2018",
+    "team_type": "club",
+    "teams": [
+      "Kings XI Punjab",
+      "Royal Challengers Bangalore"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Royal Challengers Bangalore"
+    },
+    "venue": "Holkar Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "Kings XI Punjab",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "TG Southee",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TG Southee",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TG Southee",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TG Southee",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TG Southee",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TG Southee",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TG Southee",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KL Rahul",
+                  "fielders": [
+                    {
+                      "name": "C de Grandhomme"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KK Nair",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KK Nair",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KK Nair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CH Gayle",
+                  "fielders": [
+                    {
+                      "name": "Mohammed Siraj"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KK Nair",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KK Nair",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KK Nair",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "YS Chahal",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "YS Chahal",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "YS Chahal",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "YS Chahal",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "YS Chahal",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP Stoinis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "YS Chahal",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "C de Grandhomme",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "C de Grandhomme",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Agarwal",
+                  "fielders": [
+                    {
+                      "name": "PA Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "YS Chahal",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "YS Chahal",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "YS Chahal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "YS Chahal",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "YS Chahal",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "YS Chahal",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AR Patel",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "C de Grandhomme",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "C de Grandhomme",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "MM Ali",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "MM Ali",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "MM Ali",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "MM Ali",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "MM Ali",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Finch",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Ashwin",
+              "bowler": "MM Ali",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Ashwin",
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AR Patel",
+              "bowler": "UT Yadav",
+              "non_striker": "AJ Tye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Tye",
+              "bowler": "UT Yadav",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Tye",
+              "bowler": "UT Yadav",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Tye",
+              "bowler": "UT Yadav",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Tye",
+                  "fielders": [
+                    {
+                      "name": "PA Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MM Sharma",
+              "bowler": "UT Yadav",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "UT Yadav",
+              "non_striker": "MM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MM Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "MM Ali",
+              "non_striker": "MM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "MM Ali",
+              "non_striker": "MM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MM Sharma",
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AS Rajpoot",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Rajpoot",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Rajpoot",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Rajpoot",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "Mohammed Siraj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Rajpoot",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AR Patel",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AS Rajpoot",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Rajpoot",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AR Patel",
+              "bowler": "MM Ali",
+              "non_striker": "AS Rajpoot",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AS Rajpoot",
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "R Ashwin",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "R Ashwin",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "R Ashwin",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "R Ashwin",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "R Ashwin",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "R Ashwin",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "PA Patel",
+              "review": {
+                "by": "Kings XI Punjab",
+                "umpire": "BNJ Oxenford",
+                "batter": "V Kohli",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MM Sharma",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "MM Sharma",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "MM Sharma",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MM Sharma",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "MM Sharma",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "MM Sharma",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "MP Stoinis",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MP Stoinis",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MP Stoinis",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "MP Stoinis",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "MP Stoinis",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MP Stoinis",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ Tye",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ Tye",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 89
+      }
+    }
+  ]
+}

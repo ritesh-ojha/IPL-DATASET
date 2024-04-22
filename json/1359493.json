@@ -1,0 +1,3128 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-04-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kolkata",
+    "dates": [
+      "2023-04-14"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 19
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "DS Manohar"
+      ],
+      "reserve_umpires": [
+        "M Kuppuraj"
+      ],
+      "tv_umpires": [
+        "NA Patwardhan"
+      ],
+      "umpires": [
+        "CB Gaffaney",
+        "GR Sadashiv Iyer"
+      ]
+    },
+    "outcome": {
+      "winner": "Sunrisers Hyderabad",
+      "by": {
+        "runs": 23
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "HC Brook"
+    ],
+    "players": {
+      "Sunrisers Hyderabad": [
+        "Washington Sundar",
+        "HC Brook",
+        "MA Agarwal",
+        "RA Tripathi",
+        "AK Markram",
+        "Abhishek Sharma",
+        "H Klaasen",
+        "M Jansen",
+        "M Markande",
+        "B Kumar",
+        "Umran Malik",
+        "T Natarajan"
+      ],
+      "Kolkata Knight Riders": [
+        "Suyash Sharma",
+        "Rahmanullah Gurbaz",
+        "N Jagadeesan",
+        "VR Iyer",
+        "SP Narine",
+        "N Rana",
+        "AD Russell",
+        "RK Singh",
+        "SN Thakur",
+        "UT Yadav",
+        "LH Ferguson",
+        "CV Varun"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Russell": "bbd41817",
+        "AK Markram": "6a26221c",
+        "Abhishek Sharma": "f29185a1",
+        "B Kumar": "2e81a32d",
+        "CB Gaffaney": "d5ac41d8",
+        "CV Varun": "5b7ab5a9",
+        "DS Manohar": "b35f3ac8",
+        "GD Phillips": "9a46c4e5",
+        "GR Sadashiv Iyer": "0be62e31",
+        "H Klaasen": "235c2bb6",
+        "HC Brook": "4ae1755b",
+        "LH Ferguson": "2f9d0389",
+        "M Jansen": "81c36ee9",
+        "M Kuppuraj": "aa4063d0",
+        "M Markande": "a9fd84fb",
+        "MA Agarwal": "00ea847a",
+        "N Jagadeesan": "bd54eef5",
+        "N Rana": "fb2d1dda",
+        "NA Patwardhan": "e6ef687d",
+        "RA Tripathi": "77255a9e",
+        "RK Singh": "0a509d6b",
+        "Rahmanullah Gurbaz": "0bacade8",
+        "SN Thakur": "1abb78f8",
+        "SP Narine": "9d430b40",
+        "Suyash Sharma": "9440ef41",
+        "T Natarajan": "ce794613",
+        "UT Yadav": "cc1e8c68",
+        "Umran Malik": "81c08fa3",
+        "VR Iyer": "a24be938",
+        "Washington Sundar": "f19ccfad"
+      }
+    },
+    "season": "2023",
+    "team_type": "club",
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Kolkata Knight Riders"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Kolkata Knight Riders"
+    },
+    "venue": "Eden Gardens, Kolkata"
+  },
+  "innings": [
+    {
+      "team": "Sunrisers Hyderabad",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "UT Yadav",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "LH Ferguson",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "LH Ferguson",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "LH Ferguson",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "UT Yadav",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "UT Yadav",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "UT Yadav",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "SP Narine",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Agarwal",
+                  "fielders": [
+                    {
+                      "name": "CV Varun"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RA Tripathi",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Tripathi",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "AD Russell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RA Tripathi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "AD Russell",
+              "non_striker": "RA Tripathi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Tripathi",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Tripathi",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RA Tripathi",
+                  "fielders": [
+                    {
+                      "name": "Rahmanullah Gurbaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "AD Russell",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "AD Russell",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AK Markram",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AK Markram",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "SP Narine",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "SP Narine",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "SP Narine",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "SP Narine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "SP Narine",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "Suyash Sharma",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "Suyash Sharma",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "Suyash Sharma",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "Suyash Sharma",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "SP Narine",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "SP Narine",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AK Markram",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AK Markram",
+                  "fielders": [
+                    {
+                      "name": "AD Russell"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "Suyash Sharma",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "Suyash Sharma",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "non_striker": "Abhishek Sharma",
+              "review": {
+                "by": "Sunrisers Hyderabad",
+                "umpire": "CB Gaffaney",
+                "batter": "HC Brook",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "LH Ferguson",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "Suyash Sharma",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "Suyash Sharma",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "Suyash Sharma",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "SP Narine",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "SP Narine",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "SP Narine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "SP Narine",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "CV Varun",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "CV Varun",
+              "non_striker": "Abhishek Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "AD Russell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abhishek Sharma",
+              "bowler": "AD Russell",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abhishek Sharma",
+                  "fielders": [
+                    {
+                      "name": "SN Thakur"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "SN Thakur",
+              "non_striker": "HC Brook",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "SN Thakur",
+                    "out": "AD Russell",
+                    "reason": "injury",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "SN Thakur",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "SN Thakur",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "SN Thakur",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "SN Thakur",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HC Brook",
+              "bowler": "UT Yadav",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "UT Yadav",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "UT Yadav",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "UT Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "UT Yadav",
+              "non_striker": "HC Brook",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "B Kumar",
+              "non_striker": "N Jagadeesan",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "Washington Sundar",
+                    "out": "HC Brook",
+                    "team": "Sunrisers Hyderabad",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "B Kumar",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "B Kumar",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rahmanullah Gurbaz",
+                  "fielders": [
+                    {
+                      "name": "Umran Malik"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "B Kumar",
+              "non_striker": "N Jagadeesan",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "VR Iyer",
+                    "out": "Suyash Sharma",
+                    "team": "Kolkata Knight Riders",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "B Kumar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "B Kumar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Jansen",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Jansen",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Jansen",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Jansen",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Jansen",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Jansen",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "B Kumar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "B Kumar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "B Kumar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "B Kumar",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "B Kumar",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "B Kumar",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Jansen",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Jansen",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VR Iyer",
+                  "fielders": [
+                    {
+                      "name": "AK Markram"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "M Jansen",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SP Narine",
+                  "fielders": [
+                    {
+                      "name": "AK Markram"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Jansen",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "T Natarajan",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "T Natarajan",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Natarajan",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Natarajan",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "T Natarajan",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "T Natarajan",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "N Rana",
+              "bowler": "Umran Malik",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Umran Malik",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Umran Malik",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Umran Malik",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Umran Malik",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Umran Malik",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "N Rana",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Jagadeesan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Jagadeesan",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Jagadeesan",
+                  "fielders": [
+                    {
+                      "name": "GD Phillips",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "M Jansen",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "extras": {
+                "legbyes": 1,
+                "noballs": 1
+              },
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "M Jansen",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AD Russell",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Russell",
+                  "fielders": [
+                    {
+                      "name": "M Jansen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RK Singh",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Washington Sundar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Washington Sundar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Washington Sundar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Washington Sundar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "M Markande",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Markande",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Natarajan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Natarajan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "RK Singh",
+              "bowler": "B Kumar",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "B Kumar",
+              "non_striker": "N Rana",
+              "review": {
+                "by": "Kolkata Knight Riders",
+                "umpire": "GR Sadashiv Iyer",
+                "batter": "RK Singh",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "B Kumar",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "B Kumar",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "B Kumar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "B Kumar",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RK Singh",
+              "bowler": "M Jansen",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "M Jansen",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "M Jansen",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "M Jansen",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 6,
+                "extras": 1,
+                "total": 7
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "M Jansen",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Rana",
+              "bowler": "T Natarajan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Natarajan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Natarajan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Rana",
+                  "fielders": [
+                    {
+                      "name": "Washington Sundar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "T Natarajan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "T Natarajan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RK Singh",
+              "bowler": "B Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "B Kumar",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "B Kumar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "B Kumar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "B Kumar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "B Kumar",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "B Kumar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SN Thakur",
+              "bowler": "Umran Malik",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SN Thakur",
+                  "fielders": [
+                    {
+                      "name": "Washington Sundar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "UT Yadav",
+              "bowler": "Umran Malik",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Umran Malik",
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Umran Malik",
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Umran Malik",
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Umran Malik",
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 229
+      }
+    }
+  ]
+}

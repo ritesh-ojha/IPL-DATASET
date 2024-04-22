@@ -1,0 +1,2582 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2011-05-06",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Mumbai",
+    "dates": [
+      "2008-05-31"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "stage": "Semi Final"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "S Venkataraghavan"
+      ],
+      "tv_umpires": [
+        "K Hariharan"
+      ],
+      "umpires": [
+        "Asad Rauf",
+        "DJ Harper"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 9
+      },
+      "winner": "Chennai Super Kings"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "M Ntini"
+    ],
+    "players": {
+      "Chennai Super Kings": [
+        "PA Patel",
+        "S Vidyut",
+        "SK Raina",
+        "MS Dhoni",
+        "CK Kapugedera",
+        "S Badrinath",
+        "JA Morkel",
+        "MS Gony",
+        "L Balaji",
+        "M Muralitharan",
+        "M Ntini"
+      ],
+      "Kings XI Punjab": [
+        "SE Marsh",
+        "JR Hopes",
+        "KC Sangakkara",
+        "Yuvraj Singh",
+        "DPMD Jayawardene",
+        "IK Pathan",
+        "WA Mota",
+        "PP Chawla",
+        "RR Powar",
+        "S Sreesanth",
+        "VRV Singh"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Asad Rauf": "861606b7",
+        "CK Kapugedera": "cfad138c",
+        "DJ Harper": "0ec08b27",
+        "DPMD Jayawardene": "d18f9182",
+        "IK Pathan": "5fa06777",
+        "JA Morkel": "c3d35165",
+        "JR Hopes": "2498e163",
+        "K Hariharan": "2386ccff",
+        "KC Sangakkara": "6b71e6cf",
+        "L Balaji": "b2b50355",
+        "M Muralitharan": "4ba44e19",
+        "M Ntini": "20a941bb",
+        "MS Dhoni": "4a8a2e3b",
+        "MS Gony": "ae78bc32",
+        "PA Patel": "b5da6c24",
+        "PP Chawla": "98ae73b1",
+        "RR Powar": "5d096f3d",
+        "S Badrinath": "3576e47e",
+        "S Sreesanth": "6b8eb6e5",
+        "S Venkataraghavan": "12453319",
+        "S Vidyut": "756389bd",
+        "SE Marsh": "508a1ea7",
+        "SK Raina": "1dc12ab9",
+        "VRV Singh": "034b4b7d",
+        "WA Mota": "3dba85c2",
+        "Yuvraj Singh": "1c914163"
+      }
+    },
+    "season": "2007/08",
+    "team_type": "club",
+    "teams": [
+      "Chennai Super Kings",
+      "Kings XI Punjab"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Kings XI Punjab"
+    },
+    "venue": "Wankhede Stadium"
+  },
+  "innings": [
+    {
+      "team": "Kings XI Punjab",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Muralitharan",
+              "non_striker": "JR Hopes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Muralitharan",
+              "non_striker": "JR Hopes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Muralitharan",
+              "non_striker": "JR Hopes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Hopes",
+              "bowler": "M Muralitharan",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Hopes",
+              "bowler": "M Muralitharan",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JR Hopes",
+              "bowler": "M Muralitharan",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "JR Hopes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JR Hopes",
+              "bowler": "M Ntini",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JR Hopes",
+              "bowler": "M Ntini",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JR Hopes",
+                  "fielders": [
+                    {
+                      "name": "PA Patel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "M Ntini",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "M Ntini",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "KC Sangakkara",
+                  "fielders": [
+                    {
+                      "name": "PA Patel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "MS Gony",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MS Gony",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "M Ntini",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Yuvraj Singh",
+                  "fielders": [
+                    {
+                      "name": "M Muralitharan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "MS Gony",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "MS Gony",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SE Marsh"
+                }
+              ]
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "IK Pathan",
+              "bowler": "MS Gony",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "MS Gony",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "MS Gony",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "MS Gony",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "MS Gony",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "MS Gony",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "M Ntini",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "M Ntini",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "M Ntini",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "IK Pathan",
+              "bowler": "MS Gony",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "MS Gony",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "IK Pathan",
+                  "fielders": [
+                    {
+                      "name": "M Ntini"
+                    },
+                    {
+                      "name": "MS Gony"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "MS Gony",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "MS Gony",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "MS Gony",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "MS Gony",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "WA Mota",
+              "bowler": "JA Morkel",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "JA Morkel",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "JA Morkel",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DPMD Jayawardene",
+                  "fielders": [
+                    {
+                      "name": "PA Patel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "WA Mota",
+              "bowler": "M Muralitharan",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "M Muralitharan",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "WA Mota",
+              "bowler": "JA Morkel",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "PP Chawla",
+              "bowler": "L Balaji",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "L Balaji",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "PP Chawla",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "M Muralitharan",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "PP Chawla"
+                }
+              ]
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "L Balaji",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "L Balaji",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "WA Mota",
+              "bowler": "M Muralitharan",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "M Muralitharan",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "M Muralitharan",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "M Muralitharan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "M Muralitharan",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RR Powar",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "JA Morkel",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "L Balaji",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "L Balaji",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "L Balaji",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "L Balaji",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "WA Mota",
+              "bowler": "JA Morkel",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "JA Morkel",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "JA Morkel",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "JA Morkel",
+              "non_striker": "WA Mota",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WA Mota",
+              "bowler": "JA Morkel",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "WA Mota",
+                  "fielders": [
+                    {
+                      "name": "SK Raina"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Sreesanth",
+              "bowler": "L Balaji",
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Sreesanth",
+              "bowler": "L Balaji",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "RR Powar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "L Balaji",
+              "non_striker": "S Sreesanth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "L Balaji",
+              "non_striker": "S Sreesanth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "L Balaji",
+              "non_striker": "S Sreesanth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Powar",
+              "bowler": "L Balaji",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "S Sreesanth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Chennai Super Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "S Vidyut",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "S Vidyut",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vidyut",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "S Vidyut",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vidyut",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Vidyut",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "S Sreesanth",
+              "non_striker": "S Vidyut",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "S Sreesanth",
+              "non_striker": "S Vidyut",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Vidyut",
+              "bowler": "S Sreesanth",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vidyut",
+              "bowler": "S Sreesanth",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "S Sreesanth",
+              "non_striker": "S Vidyut",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "S Sreesanth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Vidyut",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "S Sreesanth",
+              "non_striker": "S Vidyut",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Vidyut",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Vidyut",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Vidyut",
+                  "fielders": [
+                    {
+                      "name": "WA Mota"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "RR Powar",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "RR Powar",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "RR Powar",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "VRV Singh",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "VRV Singh",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "VRV Singh",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "VRV Singh",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "VRV Singh",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "VRV Singh",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "RR Powar",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "RR Powar",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "VRV Singh",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "VRV Singh",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "VRV Singh",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "VRV Singh",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "VRV Singh",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "VRV Singh",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "JR Hopes",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JR Hopes",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JR Hopes",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JR Hopes",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "JR Hopes",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JR Hopes",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "JR Hopes",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JR Hopes",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JR Hopes",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "JR Hopes",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JR Hopes",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "JR Hopes",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "RR Powar",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "RR Powar",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "IK Pathan",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "IK Pathan",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 113
+      }
+    }
+  ]
+}

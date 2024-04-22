@@ -1,0 +1,2991 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-04-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bengaluru",
+    "dates": [
+      "2019-04-24"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 42
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "J Srinath"
+      ],
+      "reserve_umpires": [
+        "K Srinivasan"
+      ],
+      "tv_umpires": [
+        "RJ Tucker"
+      ],
+      "umpires": [
+        "BNJ Oxenford",
+        "C Shamshuddin"
+      ]
+    },
+    "outcome": {
+      "winner": "Royal Challengers Bangalore",
+      "by": {
+        "runs": 17
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "AB de Villiers"
+    ],
+    "players": {
+      "Royal Challengers Bangalore": [
+        "PA Patel",
+        "V Kohli",
+        "AB de Villiers",
+        "MM Ali",
+        "AD Nath",
+        "MP Stoinis",
+        "Washington Sundar",
+        "UT Yadav",
+        "TG Southee",
+        "YS Chahal",
+        "Navdeep Saini"
+      ],
+      "Kings XI Punjab": [
+        "KL Rahul",
+        "CH Gayle",
+        "MA Agarwal",
+        "DA Miller",
+        "N Pooran",
+        "Mandeep Singh",
+        "R Ashwin",
+        "GC Viljoen",
+        "M Ashwin",
+        "AS Rajpoot",
+        "Mohammed Shami"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB de Villiers": "c4487b84",
+        "AD Nath": "f10e94c4",
+        "AS Rajpoot": "db31895a",
+        "BNJ Oxenford": "c1add349",
+        "C Shamshuddin": "0f9d921b",
+        "CH Gayle": "db584dad",
+        "DA Miller": "d67d5f00",
+        "GC Viljoen": "a316d663",
+        "J Srinath": "bad31fac",
+        "K Srinivasan": "042a8b69",
+        "KL Rahul": "b17e2f24",
+        "M Ashwin": "e2db2409",
+        "MA Agarwal": "00ea847a",
+        "MM Ali": "bb351c23",
+        "MP Stoinis": "d9273ee7",
+        "Mandeep Singh": "c3a96caf",
+        "Mohammed Shami": "8cf9814c",
+        "N Pooran": "3241e3fd",
+        "Navdeep Saini": "21d4e29b",
+        "PA Patel": "b5da6c24",
+        "R Ashwin": "495d42a5",
+        "RJ Tucker": "38810cfc",
+        "TG Southee": "13c35c9e",
+        "UT Yadav": "cc1e8c68",
+        "V Kohli": "ba607b88",
+        "Washington Sundar": "f19ccfad",
+        "YS Chahal": "57ee1fde"
+      }
+    },
+    "season": "2019",
+    "team_type": "club",
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Kings XI Punjab"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Kings XI Punjab"
+    },
+    "venue": "M.Chinnaswamy Stadium"
+  },
+  "innings": [
+    {
+      "team": "Royal Challengers Bangalore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Kohli",
+                  "fielders": [
+                    {
+                      "name": "Mandeep Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "Mohammed Shami",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AS Rajpoot",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "Mohammed Shami",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "M Ashwin",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PA Patel",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "R Ashwin",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "R Ashwin",
+              "non_striker": "MM Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MM Ali",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AD Nath",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Nath",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Nath",
+                  "fielders": [
+                    {
+                      "name": "Mandeep Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "R Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "R Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "M Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "M Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "M Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "R Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "R Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "R Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "M Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "M Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MP Stoinis",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AS Rajpoot",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AS Rajpoot",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AS Rajpoot",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "AS Rajpoot",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AS Rajpoot",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "M Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "M Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "M Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "R Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "R Ashwin",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "R Ashwin",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "Mohammed Shami",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "Mohammed Shami",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "Mohammed Shami",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "Mohammed Shami",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "Mohammed Shami",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "Mohammed Shami",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "GC Viljoen",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "GC Viljoen",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kings XI Punjab",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "TG Southee",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "Navdeep Saini",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Navdeep Saini",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "Navdeep Saini",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "Navdeep Saini",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "Navdeep Saini",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "Navdeep Saini",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CH Gayle",
+                  "fielders": [
+                    {
+                      "name": "AB de Villiers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "UT Yadav",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "UT Yadav",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TG Southee",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "YS Chahal",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "YS Chahal",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "YS Chahal",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "YS Chahal",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "YS Chahal",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "YS Chahal",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Navdeep Saini",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Navdeep Saini",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Navdeep Saini",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "Navdeep Saini",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "Navdeep Saini",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "Navdeep Saini",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "MP Stoinis",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "MP Stoinis",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "MP Stoinis",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "MP Stoinis",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "MP Stoinis",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "MP Stoinis",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "YS Chahal",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "YS Chahal",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "YS Chahal",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "YS Chahal",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "YS Chahal",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "YS Chahal",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "MP Stoinis",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Agarwal",
+                  "fielders": [
+                    {
+                      "name": "YS Chahal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MP Stoinis",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MP Stoinis",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "MP Stoinis",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MP Stoinis",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "MP Stoinis",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KL Rahul",
+                  "fielders": [
+                    {
+                      "name": "TG Southee"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Washington Sundar",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Washington Sundar",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "Navdeep Saini",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Navdeep Saini",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Navdeep Saini",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Navdeep Saini",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Navdeep Saini",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Navdeep Saini",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "TG Southee",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "TG Southee",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "TG Southee",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "TG Southee",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "TG Southee",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "TG Southee",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "UT Yadav",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "UT Yadav",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "UT Yadav",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "UT Yadav",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "UT Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "UT Yadav",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "UT Yadav",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "Navdeep Saini",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DA Miller",
+                  "fielders": [
+                    {
+                      "name": "AB de Villiers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Mandeep Singh",
+              "bowler": "Navdeep Saini",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mandeep Singh",
+              "bowler": "Navdeep Saini",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Mandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mandeep Singh",
+              "bowler": "Navdeep Saini",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Navdeep Saini",
+              "non_striker": "Mandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Pooran",
+                  "fielders": [
+                    {
+                      "name": "AB de Villiers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "R Ashwin",
+              "bowler": "UT Yadav",
+              "non_striker": "Mandeep Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Ashwin",
+              "bowler": "UT Yadav",
+              "non_striker": "Mandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Ashwin",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GC Viljoen",
+              "bowler": "UT Yadav",
+              "non_striker": "Mandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GC Viljoen",
+                  "fielders": [
+                    {
+                      "name": "PA Patel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Ashwin",
+              "bowler": "UT Yadav",
+              "non_striker": "Mandeep Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Ashwin",
+              "bowler": "UT Yadav",
+              "non_striker": "Mandeep Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mandeep Singh",
+              "bowler": "UT Yadav",
+              "non_striker": "M Ashwin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 203
+      }
+    }
+  ]
+}

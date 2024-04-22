@@ -1,0 +1,3261 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-10-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2020-10-18"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 36
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "J Srinath"
+      ],
+      "reserve_umpires": [
+        "AY Dandekar"
+      ],
+      "tv_umpires": [
+        "AK Chaudhary"
+      ],
+      "umpires": [
+        "Nitin Menon",
+        "PR Reiffel"
+      ]
+    },
+    "outcome": {
+      "result": "tie",
+      "eliminator": "Kings XI Punjab"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "KL Rahul"
+    ],
+    "players": {
+      "Mumbai Indians": [
+        "RG Sharma",
+        "Q de Kock",
+        "SA Yadav",
+        "Ishan Kishan",
+        "KH Pandya",
+        "HH Pandya",
+        "KA Pollard",
+        "NM Coulter-Nile",
+        "RD Chahar",
+        "TA Boult",
+        "JJ Bumrah"
+      ],
+      "Kings XI Punjab": [
+        "KL Rahul",
+        "MA Agarwal",
+        "CH Gayle",
+        "N Pooran",
+        "GJ Maxwell",
+        "DJ Hooda",
+        "CJ Jordan",
+        "M Ashwin",
+        "Ravi Bishnoi",
+        "Mohammed Shami",
+        "Arshdeep Singh"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AK Chaudhary": "fdcc6236",
+        "AS Roy": "e4cdf230",
+        "AY Dandekar": "2efc430e",
+        "Arshdeep Singh": "244048f6",
+        "CH Gayle": "db584dad",
+        "CJ Jordan": "ffe699c0",
+        "DJ Hooda": "73ad96ed",
+        "GJ Maxwell": "b681e71e",
+        "HH Pandya": "dbe50b21",
+        "Ishan Kishan": "752f7486",
+        "J Srinath": "bad31fac",
+        "JJ Bumrah": "462411b3",
+        "KA Pollard": "a757b0d8",
+        "KH Pandya": "5b8c830e",
+        "KL Rahul": "b17e2f24",
+        "M Ashwin": "e2db2409",
+        "MA Agarwal": "00ea847a",
+        "Mohammed Shami": "8cf9814c",
+        "N Pooran": "3241e3fd",
+        "NM Coulter-Nile": "56ab442f",
+        "Nitin Menon": "e1d41d9e",
+        "PR Reiffel": "c9354f29",
+        "Q de Kock": "372455c4",
+        "RD Chahar": "2ed569a0",
+        "RG Sharma": "740742ef",
+        "Ravi Bishnoi": "df064e1a",
+        "SA Yadav": "271f83cd",
+        "TA Boult": "a818c1be"
+      }
+    },
+    "season": "2020/21",
+    "team_type": "club",
+    "teams": [
+      "Mumbai Indians",
+      "Kings XI Punjab"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Mumbai Indians"
+    },
+    "venue": "Dubai International Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "Mumbai Indians",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "Mohammed Shami",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Mohammed Shami",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Mohammed Shami",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Arshdeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RG Sharma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Arshdeep Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SA Yadav",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Yadav",
+                  "fielders": [
+                    {
+                      "name": "M Ashwin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Ishan Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Ishan Kishan",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ishan Kishan",
+                  "fielders": [
+                    {
+                      "name": "M Ashwin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KH Pandya",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "GJ Maxwell",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "GJ Maxwell",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KH Pandya",
+              "bowler": "CJ Jordan",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "CJ Jordan",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "CJ Jordan",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "CJ Jordan",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CJ Jordan",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CJ Jordan",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KH Pandya",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "GJ Maxwell",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "GJ Maxwell",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "GJ Maxwell",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KH Pandya",
+              "bowler": "M Ashwin",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "M Ashwin",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "M Ashwin",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "M Ashwin",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "M Ashwin",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "M Ashwin",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "DJ Hooda",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "DJ Hooda",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "DJ Hooda",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "DJ Hooda",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "DJ Hooda",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "DJ Hooda",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KH Pandya",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KH Pandya",
+              "bowler": "M Ashwin",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "M Ashwin",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "M Ashwin",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "M Ashwin",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "M Ashwin",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "M Ashwin",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KH Pandya",
+                  "fielders": [
+                    {
+                      "name": "DJ Hooda"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "Ravi Bishnoi",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "M Ashwin",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "M Ashwin",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "M Ashwin",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "M Ashwin",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "M Ashwin",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "M Ashwin",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "HH Pandya",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Mohammed Shami",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HH Pandya",
+                  "fielders": [
+                    {
+                      "name": "N Pooran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Mohammed Shami",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "CJ Jordan",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "CJ Jordan",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Q de Kock",
+                  "fielders": [
+                    {
+                      "name": "MA Agarwal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "NM Coulter-Nile",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "CJ Jordan",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "CJ Jordan",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "NM Coulter-Nile",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "NM Coulter-Nile",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "NM Coulter-Nile",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "Mohammed Shami",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "Mohammed Shami",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "Mohammed Shami",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "Mohammed Shami",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "Mohammed Shami",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "Mohammed Shami",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "NM Coulter-Nile",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "NM Coulter-Nile",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NM Coulter-Nile",
+              "bowler": "CJ Jordan",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "NM Coulter-Nile",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "NM Coulter-Nile",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "NM Coulter-Nile",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kings XI Punjab",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TA Boult",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TA Boult",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TA Boult",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TA Boult",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "KH Pandya",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KH Pandya",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KH Pandya",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "KH Pandya",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "KH Pandya",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KH Pandya",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TA Boult",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Agarwal",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "TA Boult",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "KA Pollard",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "KA Pollard",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "KA Pollard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "KA Pollard",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KA Pollard",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "KA Pollard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "KA Pollard",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "KA Pollard",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "RD Chahar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CH Gayle",
+                  "fielders": [
+                    {
+                      "name": "TA Boult"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "RD Chahar",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "KA Pollard",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KA Pollard",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KA Pollard",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "KA Pollard",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "KA Pollard",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "KA Pollard",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "RD Chahar",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "RD Chahar",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "RD Chahar",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "RD Chahar",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Pooran",
+                  "fielders": [
+                    {
+                      "name": "NM Coulter-Nile"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "RD Chahar",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "RD Chahar",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GJ Maxwell",
+                  "fielders": [
+                    {
+                      "name": "RG Sharma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "RD Chahar",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "RD Chahar",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "KH Pandya",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KH Pandya",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KH Pandya",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KH Pandya",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "KH Pandya",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "KH Pandya",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KL Rahul",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "JJ Bumrah",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "NM Coulter-Nile",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "DJ Hooda",
+              "bowler": "TA Boult",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "TA Boult",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "TA Boult",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "TA Boult",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "TA Boult",
+              "non_striker": "CJ Jordan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Jordan",
+              "bowler": "TA Boult",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "CJ Jordan",
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 177
+      }
+    },
+    {
+      "team": "Kings XI Punjab",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Pooran",
+                  "fielders": [
+                    {
+                      "name": "AS Roy",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hooda",
+              "bowler": "JJ Bumrah",
+              "non_striker": "KL Rahul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KL Rahul",
+              "bowler": "JJ Bumrah",
+              "non_striker": "DJ Hooda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KL Rahul",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    },
+    {
+      "team": "Mumbai Indians",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Q de Kock",
+              "bowler": "Mohammed Shami",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Mohammed Shami",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammed Shami",
+              "non_striker": "Q de Kock",
+              "review": {
+                "by": "Kings XI Punjab",
+                "umpire": "PR Reiffel",
+                "batter": "RG Sharma",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q de Kock",
+              "bowler": "Mohammed Shami",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Q de Kock",
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    },
+    {
+      "team": "Mumbai Indians",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "CJ Jordan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "CJ Jordan",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "HH Pandya",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "SA Yadav",
+              "review": {
+                "by": "Mumbai Indians",
+                "umpire": "Nitin Menon",
+                "batter": "KA Pollard",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ Jordan",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    },
+    {
+      "team": "Kings XI Punjab",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "TA Boult",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "TA Boult",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TA Boult",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "TA Boult",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "super_over": true
+    }
+  ]
+}

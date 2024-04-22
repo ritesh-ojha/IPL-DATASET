@@ -1,0 +1,3044 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-04-23",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangalore",
+    "dates": [
+      "2013-04-23"
+    ],
+    "event": {
+      "match_number": 31,
+      "name": "Indian Premier League"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "KN Ananthapadmanabhan"
+      ],
+      "tv_umpires": [
+        "S Das"
+      ],
+      "umpires": [
+        "Aleem Dar",
+        "C Shamshuddin"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 130
+      },
+      "winner": "Royal Challengers Bangalore"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "CH Gayle"
+    ],
+    "players": {
+      "Pune Warriors": [
+        "RV Uthappa",
+        "AJ Finch",
+        "Yuvraj Singh",
+        "LJ Wright",
+        "SPD Smith",
+        "MR Marsh",
+        "M Manhas",
+        "B Kumar",
+        "AG Murtaza",
+        "IC Pandey",
+        "AB Dinda"
+      ],
+      "Royal Challengers Bangalore": [
+        "CH Gayle",
+        "TM Dilshan",
+        "V Kohli",
+        "AB de Villiers",
+        "SS Tiwary",
+        "R Rampaul",
+        "KB Arun Karthik",
+        "R Vinay Kumar",
+        "M Kartik",
+        "RP Singh",
+        "JD Unadkat"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB Dinda": "66b30f71",
+        "AB de Villiers": "c4487b84",
+        "AG Murtaza": "ef5da05c",
+        "AJ Finch": "b8d490fd",
+        "AJ Pycroft": "685d3f80",
+        "Aleem Dar": "f02778d1",
+        "B Kumar": "2e81a32d",
+        "C Shamshuddin": "0f9d921b",
+        "CH Gayle": "db584dad",
+        "IC Pandey": "e0407c01",
+        "JD Unadkat": "1e66c162",
+        "KB Arun Karthik": "7daedf2f",
+        "KN Ananthapadmanabhan": "3144063a",
+        "LJ Wright": "cca50cd6",
+        "M Kartik": "abfeb126",
+        "M Manhas": "c42aaf71",
+        "MR Marsh": "3d8feaf8",
+        "R Rampaul": "d68e7f48",
+        "R Vinay Kumar": "41eb4a4f",
+        "RP Singh": "c3d1402f",
+        "RV Uthappa": "1c17e270",
+        "S Das": "475e38b6",
+        "SPD Smith": "30a45b23",
+        "SS Tiwary": "709b0bac",
+        "TM Dilshan": "5bdcdb72",
+        "V Kohli": "ba607b88",
+        "Yuvraj Singh": "1c914163"
+      }
+    },
+    "season": 2013,
+    "team_type": "club",
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Pune Warriors"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pune Warriors"
+    },
+    "venue": "M Chinnaswamy Stadium"
+  },
+  "innings": [
+    {
+      "team": "Royal Challengers Bangalore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Kumar",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Kumar",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Kumar",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "IC Pandey",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "IC Pandey",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "IC Pandey",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "IC Pandey",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "IC Pandey",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "IC Pandey",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "IC Pandey",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AG Murtaza",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AJ Finch",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AJ Finch",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AJ Finch",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AJ Finch",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AJ Finch",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AJ Finch",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "AB Dinda",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "IC Pandey",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "IC Pandey",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "IC Pandey",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "IC Pandey",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "IC Pandey",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "IC Pandey",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "LJ Wright",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MR Marsh",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MR Marsh",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TM Dilshan",
+                  "fielders": [
+                    {
+                      "name": "AG Murtaza"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "AG Murtaza",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AG Murtaza",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "LJ Wright",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "LJ Wright",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "V Kohli",
+                  "fielders": [
+                    {
+                      "name": "AB Dinda"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AB Dinda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Kumar",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Kumar",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "B Kumar",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Kumar",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "B Kumar",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "MR Marsh",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "MR Marsh",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "MR Marsh",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "MR Marsh",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AB de Villiers",
+                  "fielders": [
+                    {
+                      "name": "M Manhas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "MR Marsh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SS Tiwary",
+                  "fielders": [
+                    {
+                      "name": "MR Marsh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "AB Dinda",
+              "non_striker": "R Rampaul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Rampaul",
+              "bowler": "AB Dinda",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "R Rampaul",
+                  "fielders": [
+                    {
+                      "name": "MR Marsh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pune Warriors",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RV Uthappa",
+              "bowler": "M Kartik",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RV Uthappa",
+              "bowler": "M Kartik",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RV Uthappa",
+                  "fielders": [
+                    {
+                      "name": "RP Singh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M Kartik",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M Kartik",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M Kartik",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "M Kartik",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "RP Singh",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "R Rampaul",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "R Rampaul",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "R Rampaul",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "R Rampaul",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "R Rampaul",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "R Rampaul",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "RP Singh",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "R Rampaul",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "R Rampaul",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AJ Finch",
+                  "fielders": [
+                    {
+                      "name": "M Kartik"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "R Rampaul",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "R Rampaul",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "R Rampaul",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "R Rampaul",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "R Rampaul",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "JD Unadkat",
+              "non_striker": "LJ Wright",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LJ Wright",
+              "bowler": "JD Unadkat",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "LJ Wright",
+                  "fielders": [
+                    {
+                      "name": "AB de Villiers"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "JD Unadkat",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "JD Unadkat",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Yuvraj Singh",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JD Unadkat",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "M Kartik",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "M Kartik",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "M Kartik",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Kartik",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Kartik",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "M Kartik",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Kartik",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "M Kartik",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "M Kartik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "M Kartik",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "M Kartik",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Kartik",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Kartik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Kartik",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JD Unadkat",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JD Unadkat",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Rampaul",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Rampaul",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Rampaul",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SPD Smith",
+                  "fielders": [
+                    {
+                      "name": "TM Dilshan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Rampaul",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "R Rampaul",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "R Rampaul",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "JD Unadkat",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JD Unadkat",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "JD Unadkat",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JD Unadkat",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Manhas",
+              "bowler": "RP Singh",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "RP Singh",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "RP Singh",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "RP Singh",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "RP Singh",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "RP Singh",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "MR Marsh"
+                }
+              ]
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "R Vinay Kumar",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "B Kumar",
+              "bowler": "R Rampaul",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "R Rampaul",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "R Rampaul",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "R Rampaul",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "R Rampaul",
+              "non_striker": "B Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "R Rampaul",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Manhas",
+              "bowler": "RP Singh",
+              "non_striker": "B Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Manhas",
+              "bowler": "RP Singh",
+              "non_striker": "B Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "RP Singh",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "RP Singh",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "RP Singh",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "B Kumar",
+                  "fielders": [
+                    {
+                      "name": "KB Arun Karthik"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AG Murtaza",
+              "bowler": "RP Singh",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AG Murtaza",
+              "bowler": "CH Gayle",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AG Murtaza",
+              "bowler": "CH Gayle",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AG Murtaza",
+              "bowler": "CH Gayle",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "AG Murtaza",
+                  "fielders": [
+                    {
+                      "name": "KB Arun Karthik"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "IC Pandey",
+              "bowler": "CH Gayle",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IC Pandey",
+              "bowler": "CH Gayle",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "IC Pandey"
+                }
+              ]
+            },
+            {
+              "batter": "AB Dinda",
+              "bowler": "CH Gayle",
+              "non_striker": "M Manhas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 264
+      }
+    }
+  ]
+}

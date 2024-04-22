@@ -1,0 +1,2951 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-04-16",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kolkata",
+    "dates": [
+      "2019-04-14"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 29
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "M Nayyar"
+      ],
+      "reserve_umpires": [
+        "BK Ravi"
+      ],
+      "tv_umpires": [
+        "YC Barde"
+      ],
+      "umpires": [
+        "CK Nandan",
+        "RJ Tucker"
+      ]
+    },
+    "outcome": {
+      "winner": "Chennai Super Kings",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Imran Tahir"
+    ],
+    "players": {
+      "Kolkata Knight Riders": [
+        "CA Lynn",
+        "SP Narine",
+        "N Rana",
+        "RV Uthappa",
+        "KD Karthik",
+        "AD Russell",
+        "Shubman Gill",
+        "PP Chawla",
+        "Kuldeep Yadav",
+        "M Prasidh Krishna",
+        "HF Gurney"
+      ],
+      "Chennai Super Kings": [
+        "SR Watson",
+        "F du Plessis",
+        "SK Raina",
+        "AT Rayudu",
+        "KM Jadhav",
+        "MS Dhoni",
+        "RA Jadeja",
+        "MJ Santner",
+        "Imran Tahir",
+        "SN Thakur",
+        "DL Chahar"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Russell": "bbd41817",
+        "AT Rayudu": "70d205c9",
+        "BK Ravi": "ff8c3cfb",
+        "CA Lynn": "45eda7c8",
+        "CK Nandan": "012de9c4",
+        "DL Chahar": "23eeb873",
+        "DR Shorey": "faa7365d",
+        "F du Plessis": "3355b542",
+        "HF Gurney": "e412cb64",
+        "Imran Tahir": "acee4cc4",
+        "KD Karthik": "c03f1114",
+        "KM Jadhav": "99d63244",
+        "Kuldeep Yadav": "8d2c70ad",
+        "M Nayyar": "b7bccddb",
+        "M Prasidh Krishna": "85e0cf10",
+        "MJ Santner": "e4a0deae",
+        "MS Dhoni": "4a8a2e3b",
+        "N Rana": "fb2d1dda",
+        "PP Chawla": "98ae73b1",
+        "RA Jadeja": "fe93fd9d",
+        "RJ Tucker": "38810cfc",
+        "RV Uthappa": "1c17e270",
+        "SK Raina": "1dc12ab9",
+        "SN Thakur": "1abb78f8",
+        "SP Narine": "9d430b40",
+        "SR Watson": "4329fbb5",
+        "Shubman Gill": "b4b99816",
+        "YC Barde": "b90f3346"
+      }
+    },
+    "season": "2019",
+    "team_type": "club",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Chennai Super Kings"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Chennai Super Kings"
+    },
+    "venue": "Eden Gardens"
+  },
+  "innings": [
+    {
+      "team": "Kolkata Knight Riders",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "SN Thakur",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "SN Thakur",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "SN Thakur",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "SN Thakur",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "SN Thakur",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "SN Thakur",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "SN Thakur",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "SN Thakur",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "SN Thakur",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "SN Thakur",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "SN Thakur",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "SN Thakur",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "MJ Santner",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "MJ Santner",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SP Narine",
+                  "fielders": [
+                    {
+                      "name": "F du Plessis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CA Lynn",
+              "bowler": "MJ Santner",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "MJ Santner",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "MJ Santner",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "MJ Santner",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "MJ Santner",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "N Rana",
+              "bowler": "Imran Tahir",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Imran Tahir",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "Imran Tahir",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Imran Tahir",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "Imran Tahir",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Imran Tahir",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "N Rana",
+              "bowler": "Imran Tahir",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "Imran Tahir",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Rana",
+                  "fielders": [
+                    {
+                      "name": "F du Plessis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "Imran Tahir",
+              "non_striker": "RV Uthappa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RV Uthappa",
+              "bowler": "Imran Tahir",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RV Uthappa",
+                  "fielders": [
+                    {
+                      "name": "F du Plessis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "DL Chahar",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "DL Chahar",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "DL Chahar",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KD Karthik",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "MJ Santner",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "MJ Santner",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "MJ Santner",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "MJ Santner",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "RA Jadeja",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "RA Jadeja",
+              "non_striker": "CA Lynn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CA Lynn",
+              "bowler": "Imran Tahir",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Lynn",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CA Lynn",
+                  "fielders": [
+                    {
+                      "name": "SN Thakur"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Russell",
+                  "fielders": [
+                    {
+                      "name": "DR Shorey",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MJ Santner",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "MJ Santner",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MJ Santner",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "MJ Santner",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "MJ Santner",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MJ Santner",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Imran Tahir",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Imran Tahir",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SN Thakur",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "SN Thakur",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KD Karthik",
+                  "fielders": [
+                    {
+                      "name": "F du Plessis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SN Thakur",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "SN Thakur",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SN Thakur",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SN Thakur",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "DL Chahar",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "DL Chahar",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "DL Chahar",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "DL Chahar",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "DL Chahar",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "DL Chahar",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "PP Chawla",
+              "bowler": "SN Thakur",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "SN Thakur",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SN Thakur",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SN Thakur",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SN Thakur",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SN Thakur",
+              "non_striker": "PP Chawla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shubman Gill",
+                  "fielders": [
+                    {
+                      "name": "RA Jadeja"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "PP Chawla",
+              "bowler": "SN Thakur",
+              "non_striker": "Kuldeep Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kuldeep Yadav",
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Chennai Super Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "HF Gurney",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "HF Gurney",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "HF Gurney",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "HF Gurney",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "HF Gurney",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "HF Gurney",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "AD Russell",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "AD Russell",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "AD Russell",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "AD Russell",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "AD Russell",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "AD Russell",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "HF Gurney",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SR Watson",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "HF Gurney",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "HF Gurney",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "HF Gurney",
+              "non_striker": "F du Plessis",
+              "review": {
+                "by": "Chennai Super Kings",
+                "umpire": "RJ Tucker",
+                "batter": "SK Raina",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "HF Gurney",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "HF Gurney",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "F du Plessis",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F du Plessis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "SP Narine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AT Rayudu",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AT Rayudu",
+                  "fielders": [
+                    {
+                      "name": "RV Uthappa"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KM Jadhav",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "KM Jadhav",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KM Jadhav",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "HF Gurney",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "HF Gurney",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "HF Gurney",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "HF Gurney",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "HF Gurney",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "HF Gurney",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "review": {
+                "by": "Chennai Super Kings",
+                "umpire": "RJ Tucker",
+                "batter": "MS Dhoni",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Dhoni",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Prasidh Krishna",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SP Narine",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SP Narine",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "HF Gurney",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "HF Gurney",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "HF Gurney",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "HF Gurney",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "HF Gurney",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "HF Gurney",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RA Jadeja",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "PP Chawla",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "PP Chawla",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 162
+      }
+    }
+  ]
+}
