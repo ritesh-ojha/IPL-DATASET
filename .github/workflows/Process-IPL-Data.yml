@@ -28,6 +28,12 @@ jobs:
       - name: Unzip IPL dataset
         run: unzip -q ipl_json.zip
 
+      - name: Create json directory
+        run: mkdir -p json
+
+      - name: Move JSON files to json folder
+        run: mv *.json json/
+
       - name: Configure Git
         uses: actions/setup-python@v2
         with:
@@ -37,6 +43,6 @@ jobs:
       - name: Push to IPL-dataset Repository
         run: |
           git init
-          git add .
+          git add json/
           git commit -m "Add IPL dataset files"
           git push --force https://github.com/ritesh-ojha/IPL-DATASET.git main
