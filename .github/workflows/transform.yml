@@ -1,0 +1,49 @@
+name: Transform JSON to CSV
+
+on:
+  push:
+    paths:
+      - 'json/**' # Trigger on changes to the Power BI folder
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+
+      - name: Convert line endings to Unix-style
+        run: sed -i 's/\r$//' transform/Ballbyball.py
+        
+
+      - name: Set execute permissions for Python script
+        run: |
+          chmod +x transform/Ballbyball.py
+
+      - name: Run Python Script
+        run: "transform/Ballbyball.py"
+
+      - name: Create json directory
+        run: mkdir -p csv
+
+      - name: Move CSV file to csv directory
+        run: mv Ball_By_Ball_Match_Data.csv csv/
+        
+      - name: Get current date and time
+        id: timestamp
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "ritesh-ojha"
+          git config --global user.email "reeteshojha5@gmail.com"
+          git add csv/
+          git commit -m "Dataset updated at - $(echo ${{ steps.timestamp.outputs.date }})"
+          git push --force https://github.com/ritesh-ojha/IPL-DATASET.git main
