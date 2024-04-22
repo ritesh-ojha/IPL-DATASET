@@ -44,7 +44,14 @@ jobs:
           python-version: '3.x'
           architecture: 'x64'
 
+      - name: Check for changes
+        id: git_changes
+        run: |
+          git diff --exit-code || echo "No changes to commit"
+        continue-on-error: true
+  
       - name: Push to IPL-dataset Repository
+        if: ${{ steps.git_changes.outputs.exit_code != '1' }}
         run: |
           git init
           git add json/
