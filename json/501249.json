@@ -1,0 +1,2959 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2011-05-10",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Jaipur",
+    "dates": [
+      "2011-05-09"
+    ],
+    "event": {
+      "match_number": 52,
+      "name": "Indian Premier League"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "RS Mahanama"
+      ],
+      "reserve_umpires": [
+        "R Subramanian"
+      ],
+      "tv_umpires": [
+        "HDPK Dharmasena"
+      ],
+      "umpires": [
+        "K Hariharan",
+        "SJA Taufel"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 63
+      },
+      "winner": "Chennai Super Kings"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "M Vijay"
+    ],
+    "players": {
+      "Chennai Super Kings": [
+        "MEK Hussey",
+        "M Vijay",
+        "SK Raina",
+        "MS Dhoni",
+        "JA Morkel",
+        "S Badrinath",
+        "DJ Bravo",
+        "WP Saha",
+        "R Ashwin",
+        "DE Bollinger",
+        "SB Jakati"
+      ],
+      "Rajasthan Royals": [
+        "SR Watson",
+        "R Dravid",
+        "AM Rahane",
+        "LRPL Taylor",
+        "AL Menaria",
+        "J Botha",
+        "AS Raut",
+        "DH Yagnik",
+        "A Singh",
+        "SK Trivedi",
+        "SK Warne"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Singh": "5b040b81",
+        "AL Menaria": "8291f939",
+        "AM Rahane": "29e95537",
+        "AS Raut": "c69a7b5c",
+        "DE Bollinger": "45c2196c",
+        "DH Yagnik": "063b3673",
+        "DJ Bravo": "87e562a9",
+        "HDPK Dharmasena": "323e4c16",
+        "J Botha": "7c503806",
+        "JA Morkel": "c3d35165",
+        "K Hariharan": "2386ccff",
+        "LRPL Taylor": "b61a3e1a",
+        "M Vijay": "4b57e452",
+        "MEK Hussey": "48fd7349",
+        "MS Dhoni": "4a8a2e3b",
+        "R Ashwin": "495d42a5",
+        "R Dravid": "0184dc35",
+        "R Subramanian": "7c32b886",
+        "RS Mahanama": "57910393",
+        "S Badrinath": "3576e47e",
+        "SB Jakati": "c8179c68",
+        "SJA Taufel": "4b43d5ac",
+        "SK Raina": "1dc12ab9",
+        "SK Trivedi": "3d7e087f",
+        "SK Warne": "bb18be76",
+        "SR Watson": "4329fbb5",
+        "WP Saha": "fe11caa6"
+      }
+    },
+    "season": 2011,
+    "team_type": "club",
+    "teams": [
+      "Rajasthan Royals",
+      "Chennai Super Kings"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Rajasthan Royals"
+    },
+    "venue": "Sawai Mansingh Stadium"
+  },
+  "innings": [
+    {
+      "team": "Chennai Super Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "AL Menaria",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "AL Menaria",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "AL Menaria",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "AL Menaria",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "AL Menaria",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "AL Menaria",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "AL Menaria",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Vijay",
+              "bowler": "A Singh",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "A Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "AL Menaria",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "AL Menaria",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "AL Menaria",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "AL Menaria",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "AL Menaria",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "AL Menaria",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "M Vijay",
+              "bowler": "SR Watson",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SR Watson",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SR Watson",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SR Watson",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SR Watson",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SR Watson",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Vijay",
+              "bowler": "A Singh",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "A Singh",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "A Singh",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Vijay",
+              "bowler": "J Botha",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "J Botha",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "J Botha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "J Botha",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "M Vijay",
+              "bowler": "J Botha",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "J Botha",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "J Botha",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "MEK Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MEK Hussey",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MEK Hussey",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "MEK Hussey"
+                }
+              ]
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "J Botha",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "J Botha",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "J Botha",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "M Vijay",
+              "bowler": "SR Watson",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SR Watson",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SR Watson",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SR Watson",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SR Watson",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SR Watson",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Trivedi",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Trivedi",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Trivedi",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Trivedi",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Trivedi",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Trivedi",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Vijay",
+              "bowler": "A Singh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "A Singh",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "A Singh",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Warne",
+              "non_striker": "M Vijay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vijay",
+              "bowler": "SK Warne",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "M Vijay",
+                  "fielders": [
+                    {
+                      "name": "J Botha"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Warne",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SK Warne",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "J Botha",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "J Botha",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "J Botha",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "J Botha",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "J Botha",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "J Botha",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SK Trivedi",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SK Trivedi",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SK Trivedi",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SK Trivedi",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SK Trivedi",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SK Trivedi",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "SR Watson",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "SR Watson",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SR Watson",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SR Watson",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SR Watson",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SR Watson",
+              "non_striker": "SK Raina",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SK Raina",
+              "bowler": "A Singh",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "A Singh",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SK Raina",
+              "bowler": "A Singh",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SK Raina"
+                }
+              ]
+            },
+            {
+              "batter": "JA Morkel",
+              "bowler": "A Singh",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JA Morkel",
+              "bowler": "A Singh",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "A Singh",
+              "non_striker": "JA Morkel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JA Morkel",
+              "bowler": "SR Watson",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SR Watson",
+              "non_striker": "JA Morkel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SR Watson",
+              "non_striker": "JA Morkel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Morkel",
+              "bowler": "SR Watson",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SR Watson",
+              "non_striker": "JA Morkel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SR Watson",
+              "non_striker": "JA Morkel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JA Morkel",
+              "bowler": "SR Watson",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Rajasthan Royals",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "JA Morkel",
+              "non_striker": "R Dravid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Dravid",
+              "bowler": "DE Bollinger",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DE Bollinger",
+              "non_striker": "R Dravid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "DE Bollinger",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "DE Bollinger",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DE Bollinger",
+              "non_striker": "R Dravid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DE Bollinger",
+              "non_striker": "R Dravid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "DE Bollinger",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "JA Morkel",
+              "non_striker": "R Dravid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "JA Morkel",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Dravid",
+              "bowler": "DE Bollinger",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DE Bollinger",
+              "non_striker": "R Dravid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "DE Bollinger",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Dravid",
+              "bowler": "DE Bollinger",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "R Dravid",
+                  "fielders": [
+                    {
+                      "name": "MS Dhoni"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DE Bollinger",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DE Bollinger",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "DJ Bravo",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Ashwin",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Ashwin",
+              "non_striker": "SR Watson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Watson",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SR Watson",
+                  "fielders": [
+                    {
+                      "name": "SB Jakati"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Bravo",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Bravo",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Bravo",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "DJ Bravo",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "SB Jakati",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "SB Jakati",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "SB Jakati",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "SB Jakati",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "JA Morkel",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "JA Morkel",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "LRPL Taylor",
+                  "fielders": [
+                    {
+                      "name": "WP Saha"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "JA Morkel",
+              "non_striker": "AL Menaria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Menaria",
+              "bowler": "JA Morkel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Menaria",
+              "bowler": "JA Morkel",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "JA Morkel",
+              "non_striker": "AL Menaria",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "JA Morkel",
+              "non_striker": "AL Menaria",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AL Menaria",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Menaria",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Menaria",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Ashwin",
+              "non_striker": "AL Menaria",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Menaria",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AL Menaria",
+                  "fielders": [
+                    {
+                      "name": "MS Dhoni"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "SB Jakati",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Botha",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Ashwin",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Ashwin",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "R Ashwin",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Ashwin",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Ashwin",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Botha",
+              "bowler": "DJ Bravo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "DJ Bravo",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "DJ Bravo",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "DJ Bravo",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "SB Jakati",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "SB Jakati",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "SB Jakati",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "DJ Bravo",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AM Rahane",
+                  "fielders": [
+                    {
+                      "name": "SK Raina"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "DJ Bravo",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "DJ Bravo",
+              "non_striker": "AS Raut",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "DJ Bravo",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "DJ Bravo",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "DJ Bravo",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AS Raut",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "SB Jakati",
+              "non_striker": "AS Raut",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "SB Jakati",
+              "non_striker": "AS Raut",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "SB Jakati",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AS Raut",
+              "bowler": "DE Bollinger",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "DE Bollinger",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "DE Bollinger",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "DE Bollinger",
+              "non_striker": "AS Raut",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "DE Bollinger",
+              "non_striker": "AS Raut",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "DE Bollinger",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "J Botha",
+              "bowler": "R Ashwin",
+              "non_striker": "AS Raut",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "R Ashwin",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AS Raut",
+              "bowler": "R Ashwin",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "AS Raut",
+                  "fielders": [
+                    {
+                      "name": "WP Saha"
+                    },
+                    {
+                      "name": "R Ashwin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DH Yagnik",
+              "bowler": "R Ashwin",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DH Yagnik",
+              "bowler": "R Ashwin",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DH Yagnik",
+              "bowler": "R Ashwin",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DH Yagnik",
+              "bowler": "DE Bollinger",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DH Yagnik",
+              "bowler": "DE Bollinger",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DH Yagnik",
+              "bowler": "DE Bollinger",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DH Yagnik",
+              "bowler": "DE Bollinger",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DH Yagnik"
+                }
+              ]
+            },
+            {
+              "batter": "A Singh",
+              "bowler": "DE Bollinger",
+              "non_striker": "J Botha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Botha",
+              "bowler": "DE Bollinger",
+              "non_striker": "A Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "J Botha"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "A Singh",
+              "bowler": "SK Raina",
+              "non_striker": "SK Trivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "A Singh"
+                }
+              ]
+            },
+            {
+              "batter": "SK Warne",
+              "bowler": "SK Raina",
+              "non_striker": "SK Trivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SK Warne",
+              "bowler": "SK Raina",
+              "non_striker": "SK Trivedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SK Warne",
+                  "fielders": [
+                    {
+                      "name": "DJ Bravo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 197
+      }
+    }
+  ]
+}

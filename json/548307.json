@@ -1,0 +1,1811 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2012-07-13",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kolkata",
+    "dates": [
+      "2012-04-05"
+    ],
+    "event": {
+      "match_number": 2,
+      "name": "Indian Premier League"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "GF Labrooy"
+      ],
+      "reserve_umpires": [
+        "Premdip Chatterjee"
+      ],
+      "tv_umpires": [
+        "S Das"
+      ],
+      "umpires": [
+        "S Asnani",
+        "HDPK Dharmasena"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 8
+      },
+      "winner": "Delhi Daredevils"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "IK Pathan"
+    ],
+    "players": {
+      "Delhi Daredevils": [
+        "AJ Finch",
+        "V Sehwag",
+        "IK Pathan",
+        "GJ Maxwell",
+        "NV Ojha",
+        "Y Venugopal Rao",
+        "M Morkel",
+        "Y Nagar",
+        "RE van der Merwe",
+        "UT Yadav",
+        "S Nadeem"
+      ],
+      "Kolkata Knight Riders": [
+        "BB McCullum",
+        "JH Kallis",
+        "G Gambhir",
+        "MK Tiwary",
+        "YK Pathan",
+        "DB Das",
+        "LR Shukla",
+        "R Bhatia",
+        "B Lee",
+        "Iqbal Abdulla",
+        "M de Lange"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Finch": "b8d490fd",
+        "B Lee": "dd09ff8e",
+        "BB McCullum": "b8a55852",
+        "DB Das": "7050a1e7",
+        "G Gambhir": "bb345e0b",
+        "GF Labrooy": "8e088dbc",
+        "GJ Maxwell": "b681e71e",
+        "HDPK Dharmasena": "323e4c16",
+        "IK Pathan": "5fa06777",
+        "Iqbal Abdulla": "85aae393",
+        "JH Kallis": "86dc8f2e",
+        "LR Shukla": "b1451597",
+        "M Morkel": "5bb5a915",
+        "M de Lange": "d4eef961",
+        "MK Tiwary": "26e5cabf",
+        "NV Ojha": "890946a0",
+        "Premdip Chatterjee": "489fb760",
+        "R Bhatia": "33a364a6",
+        "RE van der Merwe": "05c2ca46",
+        "S Asnani": "b04524bc",
+        "S Das": "475e38b6",
+        "S Nadeem": "9d80c5e1",
+        "UT Yadav": "cc1e8c68",
+        "V Sehwag": "8ba8195d",
+        "Y Nagar": "662c47a6",
+        "Y Venugopal Rao": "fe763256",
+        "YK Pathan": "3c6ffae8"
+      }
+    },
+    "season": 2012,
+    "team_type": "club",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Delhi Daredevils"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Delhi Daredevils"
+    },
+    "venue": "Eden Gardens"
+  },
+  "innings": [
+    {
+      "team": "Kolkata Knight Riders",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "IK Pathan",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "IK Pathan",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "IK Pathan",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "IK Pathan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "IK Pathan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "IK Pathan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RE van der Merwe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "BB McCullum"
+                }
+              ]
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "RE van der Merwe",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "G Gambhir",
+              "bowler": "M Morkel",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "M Morkel",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "M Morkel",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "M Morkel",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "JH Kallis"
+                }
+              ]
+            },
+            {
+              "batter": "MK Tiwary",
+              "bowler": "M Morkel",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "MK Tiwary"
+                }
+              ]
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "M Morkel",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "G Gambhir",
+              "bowler": "UT Yadav",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "UT Yadav",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "UT Yadav",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "UT Yadav",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "UT Yadav",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "UT Yadav",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "YK Pathan",
+                  "fielders": [
+                    {
+                      "name": "NV Ojha"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "G Gambhir",
+              "bowler": "M Morkel",
+              "non_striker": "DB Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "M Morkel",
+              "non_striker": "DB Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "M Morkel",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "M Morkel",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "M Morkel",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "M Morkel",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "G Gambhir",
+              "bowler": "GJ Maxwell",
+              "non_striker": "DB Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "GJ Maxwell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "GJ Maxwell",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "GJ Maxwell",
+              "non_striker": "DB Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "GJ Maxwell",
+              "non_striker": "DB Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "GJ Maxwell",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "GJ Maxwell",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "G Gambhir",
+              "bowler": "M Morkel",
+              "non_striker": "DB Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "M Morkel",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DB Das",
+              "bowler": "M Morkel",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "M Morkel",
+              "non_striker": "DB Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "G Gambhir"
+                }
+              ]
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "M Morkel",
+              "non_striker": "DB Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "DB Das",
+                  "fielders": [
+                    {
+                      "name": "AJ Finch"
+                    },
+                    {
+                      "name": "NV Ojha"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "R Bhatia",
+              "bowler": "M Morkel",
+              "non_striker": "LR Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "R Bhatia",
+              "bowler": "S Nadeem",
+              "non_striker": "LR Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Bhatia",
+              "bowler": "S Nadeem",
+              "non_striker": "LR Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "S Nadeem",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "S Nadeem",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Bhatia",
+              "bowler": "S Nadeem",
+              "non_striker": "LR Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "S Nadeem",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "LR Shukla",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "LR Shukla",
+              "bowler": "S Nadeem",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "S Nadeem",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Bhatia",
+              "bowler": "S Nadeem",
+              "non_striker": "LR Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "S Nadeem",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Bhatia",
+              "bowler": "S Nadeem",
+              "non_striker": "LR Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "S Nadeem",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "R Bhatia",
+              "bowler": "UT Yadav",
+              "non_striker": "LR Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "UT Yadav",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "UT Yadav",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Shukla",
+              "bowler": "UT Yadav",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "LR Shukla",
+                  "fielders": [
+                    {
+                      "name": "Y Nagar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "R Bhatia",
+              "bowler": "UT Yadav",
+              "non_striker": "B Lee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Lee",
+              "bowler": "UT Yadav",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "B Lee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "R Bhatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Bhatia",
+              "bowler": "RE van der Merwe",
+              "non_striker": "B Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "R Bhatia",
+                  "fielders": [
+                    {
+                      "name": "NV Ojha"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Iqbal Abdulla",
+              "bowler": "RE van der Merwe",
+              "non_striker": "B Lee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Lee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Iqbal Abdulla",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B Lee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Iqbal Abdulla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Lee",
+              "bowler": "RE van der Merwe",
+              "non_striker": "Iqbal Abdulla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "B Lee",
+                  "fielders": [
+                    {
+                      "name": "UT Yadav"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Delhi Daredevils",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Sehwag",
+              "bowler": "B Lee",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "M de Lange",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M de Lange",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Sehwag",
+              "bowler": "M de Lange",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M de Lange",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M de Lange",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M de Lange",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M de Lange",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "V Sehwag",
+              "bowler": "B Lee",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Lee",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "Iqbal Abdulla",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Sehwag",
+              "bowler": "Iqbal Abdulla",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Sehwag",
+              "bowler": "Iqbal Abdulla",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Iqbal Abdulla",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Iqbal Abdulla",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "Iqbal Abdulla",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Sehwag",
+              "bowler": "JH Kallis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JH Kallis",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JH Kallis",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JH Kallis",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JH Kallis",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Sehwag",
+              "bowler": "JH Kallis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "V Sehwag",
+              "bowler": "M de Lange",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M de Lange",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M de Lange",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Sehwag",
+              "bowler": "M de Lange",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "M de Lange",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Sehwag",
+              "bowler": "M de Lange",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "V Sehwag",
+              "bowler": "JH Kallis",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "JH Kallis",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "AJ Finch"
+                }
+              ]
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "JH Kallis",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "JH Kallis",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "JH Kallis",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Sehwag",
+              "bowler": "JH Kallis",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "IK Pathan",
+              "bowler": "R Bhatia",
+              "non_striker": "V Sehwag",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Sehwag",
+              "bowler": "R Bhatia",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "V Sehwag",
+                  "fielders": [
+                    {
+                      "name": "Iqbal Abdulla"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "R Bhatia",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "R Bhatia",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "R Bhatia",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "R Bhatia",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "IK Pathan",
+              "bowler": "JH Kallis",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "JH Kallis",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "JH Kallis",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "JH Kallis",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "JH Kallis",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "JH Kallis",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "IK Pathan",
+              "bowler": "M de Lange",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "M de Lange",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "M de Lange",
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "M de Lange",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "M de Lange",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "M de Lange",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "IK Pathan",
+              "bowler": "YK Pathan",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "YK Pathan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "YK Pathan",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "YK Pathan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "IK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "YK Pathan",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IK Pathan",
+              "bowler": "YK Pathan",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "IK Pathan",
+              "bowler": "R Bhatia",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 12,
+        "runs": 98
+      }
+    }
+  ]
+}

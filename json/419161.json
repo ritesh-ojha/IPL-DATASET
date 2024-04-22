@@ -1,0 +1,2801 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2011-04-29",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kolkata",
+    "dates": [
+      "2010-04-19"
+    ],
+    "event": {
+      "match_number": 56,
+      "name": "Indian Premier League"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "AJ Pycroft"
+      ],
+      "reserve_umpires": [
+        "R Shankar"
+      ],
+      "tv_umpires": [
+        "RB Tiffin"
+      ],
+      "umpires": [
+        "BG Jerling",
+        "RE Koertzen"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 9
+      },
+      "winner": "Kolkata Knight Riders"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "M Kartik"
+    ],
+    "players": {
+      "Kolkata Knight Riders": [
+        "SC Ganguly",
+        "BB McCullum",
+        "DJ Hussey",
+        "MK Tiwary",
+        "AD Mathews",
+        "CA Pujara",
+        "WP Saha",
+        "JD Unadkat",
+        "M Kartik",
+        "AB Dinda",
+        "SE Bond"
+      ],
+      "Mumbai Indians": [
+        "AP Tare",
+        "S Dhawan",
+        "SS Tiwary",
+        "JP Duminy",
+        "R Sathish",
+        "DJ Bravo",
+        "AT Rayudu",
+        "STR Binny",
+        "R McLaren",
+        "AG Murtaza",
+        "CRD Fernando"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB Dinda": "66b30f71",
+        "AD Mathews": "896d78ad",
+        "AG Murtaza": "ef5da05c",
+        "AJ Pycroft": "685d3f80",
+        "AP Tare": "855a210c",
+        "AT Rayudu": "70d205c9",
+        "BB McCullum": "b8a55852",
+        "BG Jerling": "26457e41",
+        "CA Pujara": "d4f9dbd4",
+        "CRD Fernando": "342d8ade",
+        "DJ Bravo": "87e562a9",
+        "DJ Hussey": "fd835ab3",
+        "JD Unadkat": "1e66c162",
+        "JP Duminy": "2e8994e7",
+        "M Kartik": "abfeb126",
+        "MK Tiwary": "26e5cabf",
+        "R McLaren": "c654af19",
+        "R Sathish": "626c5379",
+        "R Shankar": "82f0b62e",
+        "RB Tiffin": "89087a0d",
+        "RE Koertzen": "0265fab2",
+        "S Dhawan": "0a476045",
+        "SC Ganguly": "725529bc",
+        "SE Bond": "4f629497",
+        "SS Tiwary": "709b0bac",
+        "STR Binny": "bd17b45f",
+        "WP Saha": "fe11caa6"
+      }
+    },
+    "season": "2009/10",
+    "team_type": "club",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Mumbai Indians"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Mumbai Indians"
+    },
+    "venue": "Eden Gardens"
+  },
+  "innings": [
+    {
+      "team": "Mumbai Indians",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AP Tare",
+              "bowler": "SE Bond",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "SE Bond",
+              "non_striker": "AP Tare",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "SE Bond",
+              "non_striker": "AP Tare",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AP Tare",
+              "bowler": "SE Bond",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AP Tare",
+              "bowler": "SE Bond",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AP Tare",
+                  "fielders": [
+                    {
+                      "name": "M Kartik"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "SE Bond",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "SE Bond",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "SE Bond",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "SE Bond",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "SE Bond",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "SE Bond",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Dhawan",
+                  "fielders": [
+                    {
+                      "name": "WP Saha"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "SE Bond",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "JD Unadkat",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "JD Unadkat",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "JD Unadkat",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "SC Ganguly",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "SC Ganguly",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "SC Ganguly",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "SC Ganguly",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "SC Ganguly",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "SC Ganguly",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "JD Unadkat",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "JD Unadkat",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "M Kartik",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "M Kartik",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "M Kartik",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "M Kartik",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "M Kartik",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "M Kartik",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DJ Hussey",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DJ Hussey",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "DJ Hussey",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DJ Hussey",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DJ Hussey",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DJ Hussey",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JP Duminy",
+              "bowler": "M Kartik",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "M Kartik",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "M Kartik",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "M Kartik",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "M Kartik",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "M Kartik",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JP Duminy",
+              "bowler": "DJ Hussey",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "DJ Hussey",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "DJ Hussey",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DJ Hussey",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DJ Hussey",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "DJ Hussey",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AB Dinda",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "AB Dinda",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "JD Unadkat",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "JD Unadkat",
+              "non_striker": "JP Duminy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Duminy",
+              "bowler": "JD Unadkat",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "JP Duminy"
+                }
+              ]
+            },
+            {
+              "batter": "R Sathish",
+              "bowler": "JD Unadkat",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "M Kartik",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SS Tiwary",
+                  "fielders": [
+                    {
+                      "name": "BB McCullum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "M Kartik",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "M Kartik",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sathish",
+              "bowler": "M Kartik",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "M Kartik",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sathish",
+              "bowler": "M Kartik",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "R Sathish",
+              "bowler": "SE Bond",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "SE Bond",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "SE Bond",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sathish",
+              "bowler": "SE Bond",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "SE Bond",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "SE Bond",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "R Sathish",
+              "bowler": "M Kartik",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "M Kartik",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sathish",
+              "bowler": "M Kartik",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "M Kartik",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "DJ Bravo",
+                  "fielders": [
+                    {
+                      "name": "WP Saha"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "M Kartik",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sathish",
+              "bowler": "M Kartik",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AT Rayudu",
+              "bowler": "JD Unadkat",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sathish",
+              "bowler": "JD Unadkat",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "JD Unadkat",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "JD Unadkat",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "JD Unadkat",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "JD Unadkat",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Sathish",
+              "bowler": "MK Tiwary",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "MK Tiwary",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "MK Tiwary",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "MK Tiwary",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "MK Tiwary",
+              "non_striker": "R Sathish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sathish",
+              "bowler": "MK Tiwary",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "R Sathish",
+                  "fielders": [
+                    {
+                      "name": "M Kartik"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "MK Tiwary",
+              "non_striker": "STR Binny",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "STR Binny",
+              "bowler": "SE Bond",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "STR Binny",
+              "bowler": "SE Bond",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "SE Bond",
+              "non_striker": "STR Binny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "SE Bond",
+              "non_striker": "STR Binny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "STR Binny",
+              "bowler": "SE Bond",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "STR Binny",
+              "bowler": "SE Bond",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "STR Binny",
+              "bowler": "AB Dinda",
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "STR Binny",
+                  "fielders": [
+                    {
+                      "name": "SC Ganguly"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "R McLaren",
+              "bowler": "AB Dinda",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "AB Dinda",
+              "non_striker": "R McLaren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R McLaren",
+              "bowler": "AB Dinda",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AT Rayudu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "AB Dinda",
+              "non_striker": "R McLaren",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AT Rayudu",
+              "bowler": "AB Dinda",
+              "non_striker": "R McLaren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "AT Rayudu",
+                  "fielders": [
+                    {
+                      "name": "AB Dinda"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "CRD Fernando",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SC Ganguly",
+              "bowler": "R McLaren",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SC Ganguly",
+              "bowler": "CRD Fernando",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "CRD Fernando",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "CRD Fernando",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "CRD Fernando",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "CRD Fernando",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "R McLaren",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Bravo",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Bravo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Bravo",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Bravo",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Bravo",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "DJ Bravo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Bravo",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SC Ganguly",
+              "bowler": "STR Binny",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "STR Binny",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "STR Binny",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "STR Binny",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "STR Binny",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "STR Binny",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SC Ganguly",
+              "bowler": "JP Duminy",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JP Duminy",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "JP Duminy",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "JP Duminy",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JP Duminy",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JP Duminy",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "AG Murtaza",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "AG Murtaza",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SC Ganguly",
+              "bowler": "JP Duminy",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "JP Duminy",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "JP Duminy",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "JP Duminy",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "JP Duminy",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JP Duminy",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SC Ganguly",
+              "bowler": "DJ Bravo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "DJ Bravo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Bravo",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Bravo",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "DJ Bravo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "DJ Bravo",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "R Sathish",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "R Sathish",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "extras": {
+                "noballs": 5
+              },
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "CRD Fernando",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "non_striker": "SC Ganguly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Ganguly",
+              "bowler": "R Sathish",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SC Ganguly",
+                  "fielders": [
+                    {
+                      "name": "DJ Bravo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Sathish",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DJ Hussey",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "AG Murtaza",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DJ Hussey",
+              "bowler": "R McLaren",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "R McLaren",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "R McLaren",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R McLaren",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "R McLaren",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DJ Hussey",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "AG Murtaza",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "AG Murtaza",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "AG Murtaza",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "AG Murtaza",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "JP Duminy",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Hussey",
+              "bowler": "JP Duminy",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JP Duminy",
+              "non_striker": "DJ Hussey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 134
+      }
+    }
+  ]
+}
