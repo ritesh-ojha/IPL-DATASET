@@ -34,6 +34,10 @@ jobs:
       - name: Move JSON files to json folder
         run: mv *.json json/
 
+      - name: Get current date and time
+        id: timestamp
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S')"
+
       - name: Configure Git
         uses: actions/setup-python@v2
         with:
@@ -44,5 +48,5 @@ jobs:
         run: |
           git init
           git add json/
-          git commit -m "Add IPL dataset files"
+          git commit -m "JSON files updated at - $(echo ${{ steps.timestamp.outputs.date }})"
           git push --force https://github.com/ritesh-ojha/IPL-DATASET.git main
