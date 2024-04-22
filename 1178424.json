@@ -1,0 +1,797 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-05-02",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bengaluru",
+    "dates": [
+      "2019-04-30"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 49
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "V Narayan Kutty"
+      ],
+      "reserve_umpires": [
+        "GR Sadashiv Iyer"
+      ],
+      "tv_umpires": [
+        "AK Chaudhary"
+      ],
+      "umpires": [
+        "NJ Llong",
+        "UV Gandhe"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Royal Challengers Bangalore": [
+        "V Kohli",
+        "AB de Villiers",
+        "MP Stoinis",
+        "H Klaasen",
+        "Gurkeerat Singh",
+        "PA Patel",
+        "P Negi",
+        "UT Yadav",
+        "Navdeep Saini",
+        "K Khejroliya",
+        "YS Chahal"
+      ],
+      "Rajasthan Royals": [
+        "SV Samson",
+        "LS Livingstone",
+        "AM Rahane",
+        "SPD Smith",
+        "R Parag",
+        "STR Binny",
+        "MK Lomror",
+        "S Gopal",
+        "JD Unadkat",
+        "VR Aaron",
+        "O Thomas"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AB de Villiers": "c4487b84",
+        "AK Chaudhary": "fdcc6236",
+        "AM Rahane": "29e95537",
+        "GR Sadashiv Iyer": "0be62e31",
+        "Gurkeerat Singh": "6eb146d2",
+        "H Klaasen": "235c2bb6",
+        "JD Unadkat": "1e66c162",
+        "K Khejroliya": "fa2f1dde",
+        "LS Livingstone": "50c6bc2b",
+        "MK Lomror": "da934ee8",
+        "MP Stoinis": "d9273ee7",
+        "NJ Llong": "573fb985",
+        "Navdeep Saini": "21d4e29b",
+        "O Thomas": "c6097d68",
+        "P Negi": "f62772e5",
+        "PA Patel": "b5da6c24",
+        "R Parag": "04a418e8",
+        "S Gopal": "7a8bd078",
+        "SPD Smith": "30a45b23",
+        "STR Binny": "bd17b45f",
+        "SV Samson": "a4cc73aa",
+        "UT Yadav": "cc1e8c68",
+        "UV Gandhe": "43dd4011",
+        "V Kohli": "ba607b88",
+        "V Narayan Kutty": "4bacee3d",
+        "VR Aaron": "0a3d54b9",
+        "YS Chahal": "57ee1fde"
+      }
+    },
+    "season": "2019",
+    "team_type": "club",
+    "teams": [
+      "Royal Challengers Bangalore",
+      "Rajasthan Royals"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Rajasthan Royals"
+    },
+    "venue": "M.Chinnaswamy Stadium"
+  },
+  "innings": [
+    {
+      "team": "Royal Challengers Bangalore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "VR Aaron",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "VR Aaron",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "VR Aaron",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "VR Aaron",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "VR Aaron",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "VR Aaron",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "S Gopal",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "S Gopal",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "S Gopal",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "S Gopal",
+              "non_striker": "AB de Villiers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Kohli",
+                  "fielders": [
+                    {
+                      "name": "LS Livingstone"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AB de Villiers",
+              "bowler": "S Gopal",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AB de Villiers",
+                  "fielders": [
+                    {
+                      "name": "R Parag"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "S Gopal",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP Stoinis",
+                  "fielders": [
+                    {
+                      "name": "SPD Smith"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "H Klaasen",
+              "bowler": "R Parag",
+              "non_striker": "Gurkeerat Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "R Parag",
+              "non_striker": "Gurkeerat Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Gurkeerat Singh",
+              "bowler": "R Parag",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Gurkeerat Singh",
+              "bowler": "R Parag",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Gurkeerat Singh",
+              "bowler": "R Parag",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gurkeerat Singh",
+                  "fielders": [
+                    {
+                      "name": "MK Lomror"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "R Parag",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "H Klaasen",
+              "bowler": "JD Unadkat",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JD Unadkat",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JD Unadkat",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JD Unadkat",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JD Unadkat",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "JD Unadkat",
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PA Patel",
+                  "fielders": [
+                    {
+                      "name": "O Thomas"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "H Klaasen",
+              "bowler": "O Thomas",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "O Thomas",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Negi",
+              "bowler": "O Thomas",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "H Klaasen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "O Thomas",
+              "non_striker": "P Negi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Klaasen",
+                  "fielders": [
+                    {
+                      "name": "LS Livingstone"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "P Negi",
+              "bowler": "O Thomas",
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Negi",
+              "bowler": "O Thomas",
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Negi",
+                  "fielders": [
+                    {
+                      "name": "SV Samson"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Navdeep Saini",
+              "bowler": "O Thomas",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "UT Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Rajasthan Royals",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SV Samson",
+              "bowler": "UT Yadav",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "UT Yadav",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "UT Yadav",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "UT Yadav",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "UT Yadav",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "UT Yadav",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SV Samson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SV Samson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SV Samson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "Navdeep Saini",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SV Samson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Navdeep Saini",
+              "non_striker": "SV Samson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SV Samson",
+              "bowler": "K Khejroliya",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "K Khejroliya",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "K Khejroliya",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SV Samson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "K Khejroliya",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "K Khejroliya",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "K Khejroliya",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "YS Chahal",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "SV Samson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SV Samson",
+              "bowler": "YS Chahal",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SV Samson",
+                  "fielders": [
+                    {
+                      "name": "P Negi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 63
+      }
+    }
+  ]
+}

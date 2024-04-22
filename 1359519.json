@@ -1,0 +1,1483 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-05-03",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Lucknow",
+    "dates": [
+      "2023-05-03"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 45
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Prakash Bhatt"
+      ],
+      "reserve_umpires": [
+        "M Krishnadas"
+      ],
+      "tv_umpires": [
+        "CB Gaffaney"
+      ],
+      "umpires": [
+        "AK Chaudhary",
+        "NA Patwardhan"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Lucknow Super Giants": [
+        "M Vohra",
+        "KR Mayers",
+        "KS Sharma",
+        "KH Pandya",
+        "MP Stoinis",
+        "N Pooran",
+        "A Badoni",
+        "K Gowtham",
+        "Naveen-ul-Haq",
+        "Ravi Bishnoi",
+        "Mohsin Khan"
+      ],
+      "Chennai Super Kings": [
+        "AT Rayudu",
+        "RD Gaikwad",
+        "DP Conway",
+        "AM Rahane",
+        "MM Ali",
+        "S Dube",
+        "RA Jadeja",
+        "MS Dhoni",
+        "M Pathirana",
+        "TU Deshpande",
+        "M Theekshana",
+        "DL Chahar"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Badoni": "872b03f7",
+        "AK Chaudhary": "fdcc6236",
+        "AM Rahane": "29e95537",
+        "AT Rayudu": "70d205c9",
+        "CB Gaffaney": "d5ac41d8",
+        "DL Chahar": "23eeb873",
+        "DP Conway": "df5a6881",
+        "K Gowtham": "90de905a",
+        "KH Pandya": "5b8c830e",
+        "KR Mayers": "73c18486",
+        "KS Sharma": "39ed0d2f",
+        "M Krishnadas": "e298c588",
+        "M Pathirana": "64839cb3",
+        "M Theekshana": "f24c6701",
+        "M Vohra": "c03e2850",
+        "MM Ali": "bb351c23",
+        "MP Stoinis": "d9273ee7",
+        "MS Dhoni": "4a8a2e3b",
+        "Mohsin Khan": "c33d8116",
+        "N Pooran": "3241e3fd",
+        "NA Patwardhan": "e6ef687d",
+        "Naveen-ul-Haq": "c0c411cb",
+        "Prakash Bhatt": "f848ab0b",
+        "RA Jadeja": "fe93fd9d",
+        "RD Gaikwad": "45a43fe2",
+        "Ravi Bishnoi": "df064e1a",
+        "S Dube": "a4e37e47",
+        "TU Deshpande": "46a9bea1"
+      }
+    },
+    "season": "2023",
+    "team_type": "club",
+    "teams": [
+      "Lucknow Super Giants",
+      "Chennai Super Kings"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Chennai Super Kings"
+    },
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+  },
+  "innings": [
+    {
+      "team": "Lucknow Super Giants",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Vohra",
+              "bowler": "DL Chahar",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Vohra",
+              "bowler": "TU Deshpande",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vohra",
+              "bowler": "TU Deshpande",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "TU Deshpande",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "TU Deshpande",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "TU Deshpande",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "TU Deshpande",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Vohra",
+              "bowler": "DL Chahar",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KR Mayers",
+              "bowler": "MM Ali",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MM Ali",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vohra",
+              "bowler": "MM Ali",
+              "non_striker": "KR Mayers",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KR Mayers",
+              "bowler": "MM Ali",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KR Mayers",
+                  "fielders": [
+                    {
+                      "name": "RD Gaikwad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KS Sharma",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "DL Chahar",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vohra",
+              "bowler": "DL Chahar",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Vohra",
+              "bowler": "DL Chahar",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vohra",
+              "bowler": "DL Chahar",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Vohra",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "M Theekshana",
+              "non_striker": "M Vohra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Vohra",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Vohra",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Vohra",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KH Pandya",
+                  "fielders": [
+                    {
+                      "name": "AM Rahane"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "M Theekshana",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KS Sharma",
+              "bowler": "RA Jadeja",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "RA Jadeja",
+              "non_striker": "MP Stoinis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "RA Jadeja",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "RA Jadeja",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "RA Jadeja",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP Stoinis",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RA Jadeja",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "KS Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "RA Jadeja",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RA Jadeja",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RA Jadeja",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RA Jadeja",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "KS Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "KS Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KS Sharma",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KS Sharma",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "RA Jadeja",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RA Jadeja",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "RA Jadeja",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "RA Jadeja",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "A Badoni",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "MM Ali",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "MM Ali",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "M Theekshana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Theekshana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "M Theekshana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Theekshana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Theekshana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Theekshana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Theekshana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Pooran",
+                  "fielders": [
+                    {
+                      "name": "MM Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Gowtham",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "AT Rayudu",
+                    "out": "M Theekshana",
+                    "team": "Chennai Super Kings",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "M Pathirana",
+              "non_striker": "K Gowtham",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "A Badoni",
+              "bowler": "DL Chahar",
+              "non_striker": "K Gowtham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "DL Chahar",
+              "non_striker": "K Gowtham",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "DL Chahar",
+              "non_striker": "K Gowtham",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "DL Chahar",
+              "non_striker": "K Gowtham",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "DL Chahar",
+              "non_striker": "K Gowtham",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Badoni",
+              "bowler": "DL Chahar",
+              "non_striker": "K Gowtham",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "K Gowtham",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Gowtham",
+              "bowler": "M Pathirana",
+              "non_striker": "A Badoni",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Gowtham",
+                  "fielders": [
+                    {
+                      "name": "AM Rahane"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}
