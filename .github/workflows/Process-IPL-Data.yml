@@ -1,0 +1,42 @@
+name: Process IPL Data
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  process_data:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v2
+    
+      - name: Set up Git
+        run: |
+          git config --global user.name "ritesh-ojha"
+          git config --global user.email "reeteshojha5@gmail.com"
+          git config --global url.https://${{ secrets.PAT_TOKEN }}@github.com/.insteadOf https://github.com/
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+      - name: Download IPL dataset zip
+        run: wget https://cricsheet.org/downloads/ipl_json.zip
+
+      - name: Unzip IPL dataset
+        run: unzip -q ipl_json.zip
+
+      - name: Configure Git
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+
+      - name: Push to IPL-dataset Repository
+        run: |
+          git init
+          git add .
+          git commit -m "Add IPL dataset files"
+          git push --force https://github.com/ritesh-ojha/IPL-DATASET.git main
