@@ -22,6 +22,12 @@ jobs:
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
 
+      # Capture list of files before download and extraction
+      - name: List files before
+        id: list_files_before
+        run: |
+          ls -A json > files_before.txt
+
       - name: Download IPL dataset zip
         run: wget https://cricsheet.org/downloads/ipl_json.zip
 
@@ -44,14 +50,27 @@ jobs:
           python-version: '3.x'
           architecture: 'x64'
 
-      - name: Check for changes
-        id: git_changes
+      # Capture list of files after download and extraction
+      - name: List files after
+        id: list_files_after
         run: |
-          git diff --exit-code || echo "No changes to commit"
-        continue-on-error: true
-  
-      - name: Push to IPL-dataset Repository
-        if: ${{ steps.git_changes.outputs.exit_code != '1' }}
+          ls -A json > files_after.txt
+
+      # Check for new files in the json folder
+      - name: Check for new files
+        id: new_files
+        run: |
+          diff_files=$(diff files_before.txt files_after.txt)
+          if [ -n "$diff_files" ]; then
+            echo "New files detected in json folder"
+          else
+            echo "No new files detected in json folder"
+            exit 0
+          fi
+
+        # Commit and push changes if new files are detected
+      - name: Commit and push changeshanges
+        if: steps.new_files.outputs.stdout == 'New files detected in json folder'
         run: |
           git init
           git add json/

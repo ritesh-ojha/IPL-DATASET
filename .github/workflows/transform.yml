@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'json/**' # Trigger on changes to the Power BI folder
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   transform:
