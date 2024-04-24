@@ -1,19 +1,13 @@
-name: Transform JSON to CSV
+name: Transform Teams JSON to CSV
 
 on:
   push:
     paths:
-      - 'json/ipl_match/**' 
+      - 'json/ipl_team_info/**' 
   workflow_dispatch:  # Allows manual triggering
-  
-  workflow_run:
-    workflows: ["Process IPL Data"]
-    types: [completed]
-
-
 
 jobs:
-  transform:
+  team-info:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,24 +20,21 @@ jobs:
           python-version: '3.x'
           architecture: 'x64'
 
+      - name: Install dependencies
+        run: pip install pandas
+
       - name: Convert line endings to Unix-style
         run: |
-          sed -i 's/\r$//' transform/Ballbyball.py
-          sed -i 's/\r$//' transform/MatchInfo.py
+          sed -i 's/\r$//' transform/TeamInfo.py
         
 
       - name: Set execute permissions for Python script
         run: |
-          chmod +x transform/Ballbyball.py
-          chmod +x transform/MatchInfo.py
+          chmod +x transform/TeamInfo.py
 
       - name: Run Python Script
         run: |
-          "transform/Ballbyball.py"
-          "transform/MatchInfo.py"
-
-      - name: Create json directory
-        run: mkdir -p csv
+          "transform/TeamInfo.py"
 
       - name: Move CSV file to csv directory
         run: mv *.csv csv/
@@ -59,4 +50,4 @@ jobs:
           git add csv/
           git commit -m "Dataset updated at - $(echo ${{ steps.timestamp.outputs.date }}) (IST)"
           git push --force https://github.com/ritesh-ojha/IPL-DATASET.git main
-        continue-on-error: true  
+        continue-on-error: true
