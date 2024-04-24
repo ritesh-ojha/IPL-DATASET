@@ -16,11 +16,11 @@ with open('Match_Info.csv', 'w', newline='') as csvfile:
     writer.writerow(["ID", "Innings", "Overs", "BallNumber", "Batter", "Bowler", "NonStriker", 
                      "ExtraType", "BatsmanRun", "ExtrasRun", "TotalRun",  
                      "IsWicketDelivery", "PlayerOut", "Kind", "FieldersInvolved", "BattingTeam"])
-    for filename in os.listdir('json'):
+    for filename in os.listdir('json/ipl_match'):
         if filename.endswith('.json'):
             try:  
                 # Open and load JSON file
-                with open(os.path.join('json', filename)) as f:
+                with open(os.path.join('json/ipl_match', filename)) as f:
                     data = json.load(f)
                     info = data['info']
                     
