@@ -13,9 +13,7 @@ with open('Match_Info.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
   
   # Write header row
-    writer.writerow(["ID", "Innings", "Overs", "BallNumber", "Batter", "Bowler", "NonStriker", 
-                     "ExtraType", "BatsmanRun", "ExtrasRun", "TotalRun",  
-                     "IsWicketDelivery", "PlayerOut", "Kind", "FieldersInvolved", "BattingTeam"])
+    writer.writerow(["match_number", "team1", "team2", "match_date", "toss_winner", "toss_decision" ,"result", "eliminator","winner", "player_of_match", "venue", "city", "team1_players", "team2_players"])
     for filename in os.listdir('json/ipl_match'):
         if filename.endswith('.json'):
             try:  
