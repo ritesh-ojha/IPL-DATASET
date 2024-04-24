@@ -1,11 +1,8 @@
 #!/usr/bin/env python3
 
-
 import json
 import csv
 import os
-
-
 
 # Now you can write your output file
 with open('Ball_By_Ball_Match_Data.csv', 'w', newline='') as csvfile:
@@ -15,11 +12,11 @@ with open('Ball_By_Ball_Match_Data.csv', 'w', newline='') as csvfile:
   writer.writerow(["ID", "Innings", "Overs", "BallNumber", "Batter", "Bowler", "NonStriker", 
                      "ExtraType", "BatsmanRun", "ExtrasRun", "TotalRun",  
                      "IsWicketDelivery", "PlayerOut", "Kind", "FieldersInvolved", "BattingTeam"])
-  for filename in os.listdir('json'):
+  for filename in os.listdir('json/ipl_match'):
     if filename.endswith('.json'):
         
       # Open and load JSON file
-      with open(os.path.join('json', filename)) as f:
+      with open(os.path.join('json/ipl_match', filename)) as f:
         data = json.load(f)
         
       # Extract match number from filename
@@ -73,7 +70,7 @@ with open('Ball_By_Ball_Match_Data.csv', 'w', newline='') as csvfile:
             player_out, kind, fielders,team]
                   # Write row to CSV
                   writer.writerow(row)
-      print("Done")
+print("Done")
 # hello.py
 
 # print("Hello, World!")
