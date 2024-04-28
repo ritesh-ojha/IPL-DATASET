@@ -1,4 +1,4 @@
-name: Transform Teams JSON to CSV
+name: scripts Teams JSON to CSV
 
 on:
   push:
@@ -25,16 +25,16 @@ jobs:
 
       - name: Convert line endings to Unix-style
         run: |
-          sed -i 's/\r$//' transform/TeamInfo.py
+          sed -i 's/\r$//' scripts/TeamInfo.py
         
 
       - name: Set execute permissions for Python script
         run: |
-          chmod +x transform/TeamInfo.py
+          chmod +x scripts/TeamInfo.py
 
       - name: Run Python Script
         run: |
-          "transform/TeamInfo.py"
+          "scripts/TeamInfo.py"
 
       - name: Move CSV file to csv directory
         run: mv *.csv csv/

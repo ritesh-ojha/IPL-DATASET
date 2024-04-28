@@ -28,19 +28,19 @@ jobs:
 
       - name: Convert line endings to Unix-style
         run: |
-          sed -i 's/\r$//' transform/Ballbyball.py
-          sed -i 's/\r$//' transform/MatchInfo.py
+          sed -i 's/\r$//' scripts/Ballbyball.py
+          sed -i 's/\r$//' scripts/MatchInfo.py
         
 
       - name: Set execute permissions for Python script
         run: |
-          chmod +x transform/Ballbyball.py
-          chmod +x transform/MatchInfo.py
+          chmod +x scripts/Ballbyball.py
+          chmod +x scripts/MatchInfo.py
 
       - name: Run Python Script
         run: |
-          "transform/Ballbyball.py"
-          "transform/MatchInfo.py"
+          "scripts/Ballbyball.py"
+          "scripts/MatchInfo.py"
 
       - name: Create json directory
         run: mkdir -p csv
