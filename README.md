@@ -14,7 +14,7 @@ This repository contains a dataset of IPL (Indian Premier League) matches, inclu
 
 - You can use the JSON files in the `json/` directory to analyze overall match data, such as team performance, player statistics, and match outcomes.
 
-- The CSV files in the `csv/` directory provide detailed ball-by-ball data, allowing for granular analysis of individual deliveries, player performances, and match dynamics.
+- The CSV files in the `csv/` directory provide detailed ball-by-ball data, Platers_details, teams_details and match details allowing for granular analysis of individual deliveries, player performances, and match dynamics.
 
 ## Automated Generation
 
