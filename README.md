@@ -8,6 +8,26 @@ This repository contains a dataset of IPL (Indian Premier League) matches, inclu
 
 - **csv/**: This directory contains ball-by-ball data in CSV format for each IPL match. Each CSV file provides detailed information about each ball bowled in the match, including batting team, bowling team, batsman, bowler, runs scored, extras, and more.
 
+Columns in **csv** file
+<ul>
+  <li>ID</li>
+  <li>Innings</li>
+  <li>Overs</li>
+  <li>BallNumber</li>
+  <li>Batter</li>
+  <li>Bowler</li>
+  <li>NonStriker</li>
+  <li>ExtraType: wide, legbye...</li>
+  <li>BatsmanRun</li>
+  <li>ExtraRun</li>
+  <li>TotalRun</li>
+  <li>IsWicketDelivery</li>
+  <li>PlayerOut: Name of Player</li>
+  <li>Kind: catch, bowled ...</li>
+  <li>FieldersInvolved</li>
+  <li>BattingTeam</li>
+</ul>
+
 ![](transform/data.png)
 
 ## How to Use
