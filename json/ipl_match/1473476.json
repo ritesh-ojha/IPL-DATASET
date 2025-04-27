@@ -1,0 +1,3024 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-04-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kolkata",
+    "dates": [
+      "2025-04-21"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 39
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "R Seth"
+      ],
+      "reserve_umpires": [
+        "Amit Rana"
+      ],
+      "tv_umpires": [
+        "A Totre"
+      ],
+      "umpires": [
+        "Anish Sahasrabudhe",
+        "R Pandit"
+      ]
+    },
+    "outcome": {
+      "winner": "Gujarat Titans",
+      "by": {
+        "runs": 39
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Shubman Gill"
+    ],
+    "players": {
+      "Gujarat Titans": [
+        "SE Rutherford",
+        "B Sai Sudharsan",
+        "Shubman Gill",
+        "JC Buttler",
+        "R Tewatia",
+        "M Shahrukh Khan",
+        "Rashid Khan",
+        "Washington Sundar",
+        "R Sai Kishore",
+        "Mohammed Siraj",
+        "M Prasidh Krishna",
+        "I Sharma"
+      ],
+      "Kolkata Knight Riders": [
+        "VG Arora",
+        "Rahmanullah Gurbaz",
+        "SP Narine",
+        "AM Rahane",
+        "VR Iyer",
+        "RK Singh",
+        "AD Russell",
+        "Ramandeep Singh",
+        "MM Ali",
+        "A Raghuvanshi",
+        "Harshit Rana",
+        "CV Varun"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Raghuvanshi": "d7017798",
+        "A Totre": "b1d7d7bc",
+        "AD Russell": "bbd41817",
+        "AM Rahane": "29e95537",
+        "Amit Rana": "f5db088b",
+        "Anish Sahasrabudhe": "2892df67",
+        "B Sai Sudharsan": "d5130a30",
+        "CV Varun": "5b7ab5a9",
+        "Harshit Rana": "77b1aa15",
+        "I Sharma": "5bb1a1c4",
+        "JC Buttler": "99b75528",
+        "M Prasidh Krishna": "85e0cf10",
+        "M Shahrukh Khan": "7dcb9bc9",
+        "MM Ali": "bb351c23",
+        "Mohammed Siraj": "2f49c897",
+        "R Pandit": "8a604384",
+        "R Sai Kishore": "c7a995d3",
+        "R Seth": "540a44ba",
+        "R Tewatia": "39a2dfa8",
+        "RK Singh": "0a509d6b",
+        "Rahmanullah Gurbaz": "0bacade8",
+        "Ramandeep Singh": "be24ead0",
+        "Rashid Khan": "5f547c8b",
+        "SE Rutherford": "d014d5ac",
+        "SP Narine": "9d430b40",
+        "Shubman Gill": "b4b99816",
+        "VG Arora": "7c3b3b78",
+        "VR Iyer": "a24be938",
+        "Washington Sundar": "f19ccfad"
+      }
+    },
+    "season": "2025",
+    "team_type": "club",
+    "teams": [
+      "Gujarat Titans",
+      "Kolkata Knight Riders"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Kolkata Knight Riders"
+    },
+    "venue": "Eden Gardens, Kolkata"
+  },
+  "innings": [
+    {
+      "team": "Gujarat Titans",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "VG Arora",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "VG Arora",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "VG Arora",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "MM Ali",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "MM Ali",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "MM Ali",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "MM Ali",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "VG Arora",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "VG Arora",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "VG Arora",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "VG Arora",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "MM Ali",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "MM Ali",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "MM Ali",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Harshit Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Harshit Rana",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Harshit Rana",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Harshit Rana",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Harshit Rana",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MM Ali",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Harshit Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Harshit Rana",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "AD Russell",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "AD Russell",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Sai Sudharsan",
+                  "fielders": [
+                    {
+                      "name": "Rahmanullah Gurbaz"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "AD Russell",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "AD Russell",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "AD Russell",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "AD Russell",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Harshit Rana",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "CV Varun",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "CV Varun",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "SP Narine",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "SP Narine",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "VG Arora",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shubman Gill",
+                  "fielders": [
+                    {
+                      "name": "RK Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Tewatia",
+              "bowler": "VG Arora",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "R Tewatia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "R Tewatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tewatia",
+              "bowler": "Harshit Rana",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Tewatia",
+                  "fielders": [
+                    {
+                      "name": "Ramandeep Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Harshit Rana",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Harshit Rana",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Harshit Rana",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "VG Arora",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "VG Arora",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "VG Arora",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "VG Arora",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "VG Arora",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "VG Arora",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "I Sharma",
+                    "out": "SE Rutherford",
+                    "team": "Gujarat Titans",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammed Siraj",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Rahmanullah Gurbaz",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rahmanullah Gurbaz",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "review": {
+                "by": "Kolkata Knight Riders",
+                "umpire": "R Pandit",
+                "batter": "Rahmanullah Gurbaz",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rahmanullah Gurbaz",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "I Sharma",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "I Sharma",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "I Sharma",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "I Sharma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "I Sharma",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "I Sharma",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammed Siraj",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "Rashid Khan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Rashid Khan",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "Rashid Khan",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SP Narine",
+                  "fielders": [
+                    {
+                      "name": "R Tewatia"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "Rashid Khan",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Rashid Khan",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "Rashid Khan",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "M Prasidh Krishna",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "VR Iyer",
+              "bowler": "Rashid Khan",
+              "non_striker": "AM Rahane",
+              "review": {
+                "by": "Gujarat Titans",
+                "umpire": "Anish Sahasrabudhe",
+                "batter": "VR Iyer",
+                "decision": "struck down",
+                "type": "wicket",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "Rashid Khan",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Rashid Khan",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Rashid Khan",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "Rashid Khan",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "VR Iyer",
+              "bowler": "Washington Sundar",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "Washington Sundar",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "Washington Sundar",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Sai Kishore",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Sai Kishore",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Sai Kishore",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "Washington Sundar",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "Washington Sundar",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Sai Kishore",
+              "non_striker": "VR Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VR Iyer",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VR Iyer",
+                  "fielders": [
+                    {
+                      "name": "Washington Sundar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "R Sai Kishore",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Washington Sundar",
+              "non_striker": "AM Rahane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Rahane",
+              "bowler": "Washington Sundar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Rahane",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Washington Sundar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Washington Sundar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Washington Sundar",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "RK Singh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "R Sai Kishore",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "R Sai Kishore",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "R Sai Kishore",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "R Sai Kishore",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "R Sai Kishore",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "RK Singh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AD Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Russell",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Russell",
+                  "fielders": [
+                    {
+                      "name": "JC Buttler"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Ramandeep Singh",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ramandeep Singh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ramandeep Singh",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Ali",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MM Ali",
+                  "fielders": [
+                    {
+                      "name": "M Shahrukh Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RK Singh",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "A Raghuvanshi",
+                    "out": "VG Arora",
+                    "team": "Kolkata Knight Riders",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "A Raghuvanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Raghuvanshi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Rashid Khan",
+              "non_striker": "A Raghuvanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "Rashid Khan",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "A Raghuvanshi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RK Singh",
+              "bowler": "Mohammed Siraj",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "A Raghuvanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "RK Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RK Singh",
+              "bowler": "I Sharma",
+              "non_striker": "A Raghuvanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RK Singh",
+                  "fielders": [
+                    {
+                      "name": "Shubman Gill"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Harshit Rana",
+              "bowler": "I Sharma",
+              "non_striker": "A Raghuvanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Harshit Rana",
+              "bowler": "I Sharma",
+              "non_striker": "A Raghuvanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "I Sharma",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "I Sharma",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Raghuvanshi",
+              "bowler": "I Sharma",
+              "non_striker": "Harshit Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 199
+      }
+    }
+  ]
+}
