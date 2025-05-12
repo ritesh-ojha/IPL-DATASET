@@ -1,0 +1,825 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-05-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dharamsala",
+    "dates": [
+      "2025-05-08"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 58
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "DS Manohar"
+      ],
+      "reserve_umpires": [
+        "Bhavesh Patel"
+      ],
+      "tv_umpires": [
+        "J Madanagopal"
+      ],
+      "umpires": [
+        "CB Gaffaney",
+        "P Joshi"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "Punjab Kings": [
+        "Priyansh Arya",
+        "P Simran Singh",
+        "JP Inglis",
+        "SS Iyer",
+        "N Wadhera",
+        "Shashank Singh",
+        "MP Stoinis",
+        "Azmatullah Omarzai",
+        "M Jansen",
+        "YS Chahal",
+        "Arshdeep Singh"
+      ],
+      "Delhi Capitals": [
+        "F du Plessis",
+        "Sameer Rizvi",
+        "Abishek Porel",
+        "KL Rahul",
+        "AR Patel",
+        "T Stubbs",
+        "M Tiwari",
+        "MA Starc",
+        "PVD Chameera",
+        "Kuldeep Yadav",
+        "T Natarajan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AR Patel": "2e171977",
+        "Abishek Porel": "ad3b6e95",
+        "Arshdeep Singh": "244048f6",
+        "Azmatullah Omarzai": "8f6dd463",
+        "Bhavesh Patel": "ee03dc30",
+        "CB Gaffaney": "d5ac41d8",
+        "DS Manohar": "b35f3ac8",
+        "F du Plessis": "3355b542",
+        "J Madanagopal": "8275b04a",
+        "JP Inglis": "989889ff",
+        "KL Rahul": "b17e2f24",
+        "Kuldeep Yadav": "8d2c70ad",
+        "M Jansen": "81c36ee9",
+        "M Tiwari": "fb5f69e4",
+        "MA Starc": "3fb19989",
+        "MP Stoinis": "d9273ee7",
+        "N Wadhera": "d1a60072",
+        "P Joshi": "ffc0e370",
+        "P Simran Singh": "9418198b",
+        "PVD Chameera": "327b58d3",
+        "Priyansh Arya": "b5797845",
+        "SS Iyer": "85ec8e33",
+        "Sameer Rizvi": "f89d3b11",
+        "Shashank Singh": "26989d80",
+        "T Natarajan": "ce794613",
+        "T Stubbs": "85b3fab2",
+        "YS Chahal": "57ee1fde"
+      }
+    },
+    "season": "2025",
+    "team_type": "club",
+    "teams": [
+      "Punjab Kings",
+      "Delhi Capitals"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Punjab Kings"
+    },
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala"
+  },
+  "innings": [
+    {
+      "team": "Punjab Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "MA Starc",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "MA Starc",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "MA Starc",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "MA Starc",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "MA Starc",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "MA Starc",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "PVD Chameera",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "PVD Chameera",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "MA Starc",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "MA Starc",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "MA Starc",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "MA Starc",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "MA Starc",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "MA Starc",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "PVD Chameera",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "AR Patel",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "AR Patel",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "AR Patel",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "AR Patel",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "AR Patel",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "AR Patel",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "T Natarajan",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "T Natarajan",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "T Natarajan",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "T Natarajan",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "AR Patel",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "AR Patel",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "AR Patel",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "AR Patel",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "AR Patel",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "AR Patel",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Kuldeep Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "M Tiwari",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "M Tiwari",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "M Tiwari",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "M Tiwari",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "M Tiwari",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "M Tiwari",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Kuldeep Yadav",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "T Natarajan",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Priyansh Arya",
+                  "fielders": [
+                    {
+                      "name": "M Tiwari"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}
