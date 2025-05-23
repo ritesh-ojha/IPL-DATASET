@@ -1,0 +1,3078 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-05-22",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ahmedabad",
+    "dates": [
+      "2025-05-22"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 64
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Amit Sharma"
+      ],
+      "reserve_umpires": [
+        "KM Gandhi"
+      ],
+      "tv_umpires": [
+        "Nitin Menon"
+      ],
+      "umpires": [
+        "KN Ananthapadmanabhan",
+        "M Krishnadas"
+      ]
+    },
+    "outcome": {
+      "winner": "Lucknow Super Giants",
+      "by": {
+        "runs": 33
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MR Marsh"
+    ],
+    "players": {
+      "Lucknow Super Giants": [
+        "AK Markram",
+        "MR Marsh",
+        "N Pooran",
+        "RR Pant",
+        "A Badoni",
+        "Abdul Samad",
+        "Himmat Singh",
+        "Shahbaz Ahmed",
+        "Avesh Khan",
+        "Akash Deep",
+        "W O'Rourke",
+        "Akash Singh"
+      ],
+      "Gujarat Titans": [
+        "B Sai Sudharsan",
+        "Shubman Gill",
+        "JC Buttler",
+        "SE Rutherford",
+        "M Shahrukh Khan",
+        "R Tewatia",
+        "Arshad Khan",
+        "Rashid Khan",
+        "K Rabada",
+        "R Sai Kishore",
+        "Mohammed Siraj",
+        "M Prasidh Krishna"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Badoni": "872b03f7",
+        "AK Markram": "6a26221c",
+        "Abdul Samad": "8e514b4c",
+        "Akash Deep": "0a67aec0",
+        "Akash Singh": "b483905d",
+        "Amit Sharma": "7ea3e0cc",
+        "Arshad Khan": "12314277",
+        "Avesh Khan": "eef2536f",
+        "B Sai Sudharsan": "d5130a30",
+        "Himmat Singh": "ebcfef83",
+        "JC Buttler": "99b75528",
+        "K Rabada": "e62dd25d",
+        "KM Gandhi": "a9421c64",
+        "KN Ananthapadmanabhan": "3144063a",
+        "M Krishnadas": "e298c588",
+        "M Prasidh Krishna": "85e0cf10",
+        "M Shahrukh Khan": "7dcb9bc9",
+        "MR Marsh": "3d8feaf8",
+        "Mohammed Siraj": "2f49c897",
+        "N Pooran": "3241e3fd",
+        "Nitin Menon": "e1d41d9e",
+        "R Sai Kishore": "c7a995d3",
+        "R Tewatia": "39a2dfa8",
+        "RR Pant": "919a3be2",
+        "Rashid Khan": "5f547c8b",
+        "Ravi Bishnoi": "df064e1a",
+        "SE Rutherford": "d014d5ac",
+        "Shahbaz Ahmed": "f9e6e7ef",
+        "Shubman Gill": "b4b99816",
+        "W O'Rourke": "cb9b8664"
+      }
+    },
+    "season": "2025",
+    "team_type": "club",
+    "teams": [
+      "Lucknow Super Giants",
+      "Gujarat Titans"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Gujarat Titans"
+    },
+    "venue": "Narendra Modi Stadium, Ahmedabad"
+  },
+  "innings": [
+    {
+      "team": "Lucknow Super Giants",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AK Markram",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AK Markram",
+              "bowler": "Arshad Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Arshad Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Arshad Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Arshad Khan",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Arshad Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Arshad Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Arshad Khan",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AK Markram",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "K Rabada",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "K Rabada",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "K Rabada",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "K Rabada",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "K Rabada",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "K Rabada",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "K Rabada",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AK Markram",
+              "bowler": "R Sai Kishore",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "R Sai Kishore",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "AK Markram",
+              "bowler": "R Sai Kishore",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Sai Kishore",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AK Markram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AK Markram",
+              "bowler": "R Sai Kishore",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AK Markram",
+                  "fielders": [
+                    {
+                      "name": "M Shahrukh Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "R Sai Kishore",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "K Rabada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "K Rabada",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "K Rabada",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "Rashid Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Rashid Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Rashid Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Rashid Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Rashid Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Rashid Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "N Pooran",
+              "bowler": "Rashid Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Rashid Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Rashid Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Rashid Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Rashid Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Rashid Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Rashid Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "R Sai Kishore",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "R Sai Kishore",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "R Sai Kishore",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "R Sai Kishore",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Sai Kishore",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammed Siraj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Mohammed Siraj",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "Arshad Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Arshad Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Arshad Khan",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Arshad Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Arshad Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Arshad Khan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Arshad Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Prasidh Krishna",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "M Prasidh Krishna",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "Arshad Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Arshad Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MR Marsh",
+                  "fielders": [
+                    {
+                      "name": "SE Rutherford"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RR Pant",
+              "bowler": "Arshad Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Pant",
+              "bowler": "Arshad Khan",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Arshad Khan",
+              "non_striker": "RR Pant",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "Arshad Khan",
+              "non_striker": "RR Pant",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RR Pant",
+              "bowler": "K Rabada",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RR Pant",
+              "bowler": "K Rabada",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "K Rabada",
+              "non_striker": "RR Pant",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Pooran",
+              "bowler": "K Rabada",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "RR Pant",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Pant",
+              "bowler": "K Rabada",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RR Pant",
+              "bowler": "K Rabada",
+              "non_striker": "N Pooran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Gujarat Titans",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Singh",
+              "non_striker": "Shubman Gill",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "B Sai Sudharsan",
+                    "out": "M Prasidh Krishna",
+                    "team": "Gujarat Titans",
+                    "reason": "impact_player"
+                  },
+                  {
+                    "in": "Akash Singh",
+                    "out": "MR Marsh",
+                    "team": "Lucknow Super Giants",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Singh",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Singh",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Singh",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Singh",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Singh",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Deep",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Deep",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Deep",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Deep",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Deep",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Deep",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Deep",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Deep",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Singh",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Singh",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Singh",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Singh",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Singh",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Singh",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Deep",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "Akash Deep",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Deep",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Deep",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Deep",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Deep",
+              "non_striker": "B Sai Sudharsan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "W O'Rourke",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "W O'Rourke",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Sai Sudharsan",
+              "bowler": "W O'Rourke",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Sai Sudharsan",
+                  "fielders": [
+                    {
+                      "name": "AK Markram"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "W O'Rourke",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "W O'Rourke",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "W O'Rourke",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Akash Singh",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Avesh Khan",
+              "non_striker": "Shubman Gill",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "Avesh Khan",
+                    "out": "Akash Singh",
+                    "reason": "injury",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Avesh Khan",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Avesh Khan",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Avesh Khan",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Avesh Khan",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Shahbaz Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Shahbaz Ahmed",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "Avesh Khan",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Avesh Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Avesh Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Avesh Khan",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Avesh Khan",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "Avesh Khan",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shubman Gill",
+                  "fielders": [
+                    {
+                      "name": "Abdul Samad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "W O'Rourke",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "W O'Rourke",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "W O'Rourke",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "W O'Rourke",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "W O'Rourke",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "W O'Rourke",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JC Buttler",
+              "bowler": "Akash Singh",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Akash Singh",
+              "non_striker": "JC Buttler",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Buttler",
+              "bowler": "Akash Singh",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Buttler",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Akash Singh",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Akash Singh",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Akash Singh",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "W O'Rourke",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "W O'Rourke",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "W O'Rourke",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "W O'Rourke",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "W O'Rourke",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "W O'Rourke",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Akash Deep",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Akash Deep",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Akash Deep",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Akash Deep",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Akash Deep",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Akash Deep",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Shahbaz Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Avesh Khan",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Akash Deep",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Akash Deep",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Akash Deep",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Akash Deep",
+              "non_striker": "SE Rutherford",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Akash Deep",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Akash Deep",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Rutherford",
+              "bowler": "Akash Deep",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SE Rutherford",
+              "bowler": "W O'Rourke",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SE Rutherford",
+                  "fielders": [
+                    {
+                      "name": "Ravi Bishnoi",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Tewatia",
+              "bowler": "W O'Rourke",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "W O'Rourke",
+              "non_striker": "R Tewatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tewatia",
+              "bowler": "W O'Rourke",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "W O'Rourke",
+              "non_striker": "R Tewatia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Tewatia",
+              "bowler": "W O'Rourke",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Tewatia",
+                  "fielders": [
+                    {
+                      "name": "Himmat Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Arshad Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Arshad Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arshad Khan",
+              "bowler": "Shahbaz Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arshad Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "Arshad Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arshad Khan",
+              "bowler": "Shahbaz Ahmed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Arshad Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Arshad Khan",
+              "bowler": "Shahbaz Ahmed",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Arshad Khan",
+                  "fielders": [
+                    {
+                      "name": "W O'Rourke"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "M Shahrukh Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Shahrukh Khan",
+              "bowler": "Avesh Khan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Shahrukh Khan",
+                  "fielders": [
+                    {
+                      "name": "Ravi Bishnoi",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Rabada",
+              "bowler": "Avesh Khan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "K Rabada",
+              "bowler": "A Badoni",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "A Badoni",
+              "non_striker": "K Rabada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Rabada",
+              "bowler": "A Badoni",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Rabada",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Sai Kishore",
+              "bowler": "A Badoni",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rashid Khan",
+              "bowler": "A Badoni",
+              "non_striker": "R Sai Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Sai Kishore",
+              "bowler": "A Badoni",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Sai Kishore",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 236
+      }
+    }
+  ]
+}
