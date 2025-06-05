@@ -1,0 +1,3129 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-04",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ahmedabad",
+    "dates": [
+      "2025-06-03"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "stage": "Final"
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "J Srinath"
+      ],
+      "reserve_umpires": [
+        "KN Ananthapadmanabhan"
+      ],
+      "tv_umpires": [
+        "CB Gaffaney"
+      ],
+      "umpires": [
+        "J Madanagopal",
+        "Nitin Menon"
+      ]
+    },
+    "outcome": {
+      "winner": "Royal Challengers Bengaluru",
+      "by": {
+        "runs": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "KH Pandya"
+    ],
+    "players": {
+      "Royal Challengers Bengaluru": [
+        "Suyash Sharma",
+        "PD Salt",
+        "V Kohli",
+        "MA Agarwal",
+        "RM Patidar",
+        "LS Livingstone",
+        "JM Sharma",
+        "R Shepherd",
+        "KH Pandya",
+        "B Kumar",
+        "Yash Dayal",
+        "JR Hazlewood"
+      ],
+      "Punjab Kings": [
+        "YS Chahal",
+        "Priyansh Arya",
+        "P Simran Singh",
+        "JP Inglis",
+        "SS Iyer",
+        "N Wadhera",
+        "Shashank Singh",
+        "MP Stoinis",
+        "Azmatullah Omarzai",
+        "KA Jamieson",
+        "Vijaykumar Vyshak",
+        "Arshdeep Singh"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Arshdeep Singh": "244048f6",
+        "Azmatullah Omarzai": "8f6dd463",
+        "B Kumar": "2e81a32d",
+        "CB Gaffaney": "d5ac41d8",
+        "J Madanagopal": "8275b04a",
+        "J Srinath": "bad31fac",
+        "JM Sharma": "800d2d97",
+        "JP Inglis": "989889ff",
+        "JR Hazlewood": "03806cf8",
+        "KA Jamieson": "68c56d09",
+        "KH Pandya": "5b8c830e",
+        "KN Ananthapadmanabhan": "3144063a",
+        "LS Livingstone": "50c6bc2b",
+        "MA Agarwal": "00ea847a",
+        "MP Stoinis": "d9273ee7",
+        "MS Bhandage": "e96801ea",
+        "N Wadhera": "d1a60072",
+        "Nitin Menon": "e1d41d9e",
+        "P Simran Singh": "9418198b",
+        "PD Salt": "3d284ca3",
+        "Priyansh Arya": "b5797845",
+        "R Shepherd": "c5aef772",
+        "RM Patidar": "c740ea83",
+        "SS Iyer": "85ec8e33",
+        "Shashank Singh": "26989d80",
+        "Suyash Sharma": "9440ef41",
+        "V Kohli": "ba607b88",
+        "Vijaykumar Vyshak": "54e52590",
+        "YS Chahal": "57ee1fde",
+        "Yash Dayal": "7210d461"
+      }
+    },
+    "season": "2025",
+    "team_type": "club",
+    "teams": [
+      "Royal Challengers Bengaluru",
+      "Punjab Kings"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Punjab Kings"
+    },
+    "venue": "Narendra Modi Stadium, Ahmedabad"
+  },
+  "innings": [
+    {
+      "team": "Royal Challengers Bengaluru",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "KA Jamieson",
+              "non_striker": "PD Salt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PD Salt",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "PD Salt",
+                  "fielders": [
+                    {
+                      "name": "SS Iyer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Arshdeep Singh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "KA Jamieson",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "KA Jamieson",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "MA Agarwal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Agarwal",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Agarwal",
+                  "fielders": [
+                    {
+                      "name": "Arshdeep Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RM Patidar",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "KA Jamieson",
+              "non_striker": "RM Patidar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RM Patidar",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RM Patidar",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "KA Jamieson",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Vijaykumar Vyshak",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Vijaykumar Vyshak",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "LS Livingstone",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "YS Chahal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "YS Chahal",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Azmatullah Omarzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Azmatullah Omarzai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Kohli",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JM Sharma",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JM Sharma",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Sharma",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Sharma",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Sharma",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "JM Sharma",
+              "bowler": "KA Jamieson",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JM Sharma",
+              "bowler": "KA Jamieson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Sharma",
+              "bowler": "KA Jamieson",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JM Sharma",
+              "bowler": "KA Jamieson",
+              "non_striker": "LS Livingstone",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "KA Jamieson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "KA Jamieson",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "KA Jamieson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LS Livingstone",
+              "bowler": "KA Jamieson",
+              "non_striker": "JM Sharma",
+              "review": {
+                "by": "Royal Challengers Bengaluru",
+                "umpire": "J Madanagopal",
+                "batter": "LS Livingstone",
+                "decision": "struck down",
+                "type": "wicket",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LS Livingstone",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "R Shepherd",
+              "bowler": "KA Jamieson",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Shepherd",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Shepherd",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "JM Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Sharma",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "R Shepherd",
+              "review": {
+                "by": "Royal Challengers Bengaluru",
+                "umpire": "Nitin Menon",
+                "batter": "JM Sharma",
+                "decision": "upheld",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Sharma",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "R Shepherd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Sharma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "R Shepherd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Shepherd",
+              "bowler": "Vijaykumar Vyshak",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Shepherd",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "R Shepherd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Shepherd",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "R Shepherd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Shepherd",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Shepherd",
+              "bowler": "Azmatullah Omarzai",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KH Pandya",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "R Shepherd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Shepherd",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "KH Pandya",
+              "review": {
+                "by": "Royal Challengers Bengaluru",
+                "umpire": "Nitin Menon",
+                "batter": "R Shepherd",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Shepherd",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "KH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KH Pandya",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "B Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KH Pandya",
+                  "fielders": [
+                    {
+                      "name": "SS Iyer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Yash Dayal",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "B Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Kumar",
+              "bowler": "Arshdeep Singh",
+              "non_striker": "Yash Dayal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Kumar",
+                  "fielders": [
+                    {
+                      "name": "Priyansh Arya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Punjab Kings",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "B Kumar",
+              "non_striker": "P Simran Singh",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "P Simran Singh",
+                    "out": "YS Chahal",
+                    "team": "Punjab Kings",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "B Kumar",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "B Kumar",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "B Kumar",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "B Kumar",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "B Kumar",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Yash Dayal",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Yash Dayal",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Yash Dayal",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Yash Dayal",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Yash Dayal",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "Yash Dayal",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "JR Hazlewood",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "JR Hazlewood",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "JR Hazlewood",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "B Kumar",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "B Kumar",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "B Kumar",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "B Kumar",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "B Kumar",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "B Kumar",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "JR Hazlewood",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "JR Hazlewood",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "JR Hazlewood",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "JR Hazlewood",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "JR Hazlewood",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Priyansh Arya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Priyansh Arya",
+              "bowler": "JR Hazlewood",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Priyansh Arya",
+                  "fielders": [
+                    {
+                      "name": "PD Salt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Yash Dayal",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Yash Dayal",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Yash Dayal",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Yash Dayal",
+              "non_striker": "P Simran Singh",
+              "review": {
+                "by": "Royal Challengers Bengaluru",
+                "umpire": "J Madanagopal",
+                "batter": "JP Inglis",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Yash Dayal",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Yash Dayal",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "Suyash Sharma",
+                    "out": "MA Agarwal",
+                    "team": "Royal Challengers Bengaluru",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "KH Pandya",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "KH Pandya",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Suyash Sharma",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Suyash Sharma",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "Suyash Sharma",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Suyash Sharma",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Suyash Sharma",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "Suyash Sharma",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "P Simran Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "KH Pandya",
+              "non_striker": "P Simran Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Simran Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Simran Singh",
+                  "fielders": [
+                    {
+                      "name": "B Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "KH Pandya",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "KH Pandya",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "R Shepherd",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "R Shepherd",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "R Shepherd",
+              "non_striker": "SS Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Iyer",
+              "bowler": "R Shepherd",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SS Iyer",
+                  "fielders": [
+                    {
+                      "name": "JM Sharma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "R Shepherd",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "R Shepherd",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "KH Pandya",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "KH Pandya",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "KH Pandya",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "KH Pandya",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "R Shepherd",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "R Shepherd",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "R Shepherd",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "R Shepherd",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "R Shepherd",
+              "non_striker": "JP Inglis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "R Shepherd",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JP Inglis",
+              "bowler": "R Shepherd",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JP Inglis",
+              "bowler": "KH Pandya",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JP Inglis",
+                  "fielders": [
+                    {
+                      "name": "LS Livingstone"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "KH Pandya",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "KH Pandya",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Shashank Singh",
+              "bowler": "Suyash Sharma",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "Suyash Sharma",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "Suyash Sharma",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "Suyash Sharma",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "Suyash Sharma",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "Suyash Sharma",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Shashank Singh",
+              "bowler": "R Shepherd",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "R Shepherd",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "R Shepherd",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "R Shepherd",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "R Shepherd",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "R Shepherd",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Wadhera",
+              "review": {
+                "by": "Royal Challengers Bengaluru",
+                "umpire": "J Madanagopal",
+                "batter": "Shashank Singh",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "JR Hazlewood",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "N Wadhera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "N Wadhera",
+              "bowler": "B Kumar",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Wadhera",
+              "bowler": "B Kumar",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Wadhera",
+                  "fielders": [
+                    {
+                      "name": "KH Pandya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "B Kumar",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MP Stoinis",
+              "bowler": "B Kumar",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP Stoinis",
+                  "fielders": [
+                    {
+                      "name": "Yash Dayal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "B Kumar",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "B Kumar",
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shashank Singh",
+              "bowler": "Yash Dayal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Azmatullah Omarzai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Azmatullah Omarzai",
+              "bowler": "Yash Dayal",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Azmatullah Omarzai",
+                  "fielders": [
+                    {
+                      "name": "MS Bhandage",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "KA Jamieson",
+              "bowler": "Yash Dayal",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "Yash Dayal",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "Yash Dayal",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Jamieson",
+              "bowler": "Yash Dayal",
+              "non_striker": "Shashank Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Shashank Singh",
+              "bowler": "B Kumar",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "B Kumar",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "B Kumar",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "B Kumar",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "B Kumar",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "B Kumar",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shashank Singh",
+              "bowler": "JR Hazlewood",
+              "non_striker": "KA Jamieson",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 191
+      }
+    }
+  ]
+}
