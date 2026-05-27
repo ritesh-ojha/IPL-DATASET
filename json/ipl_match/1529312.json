@@ -1,0 +1,3095 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2026-05-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Mumbai",
+    "dates": [
+      "2026-05-24"
+    ],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 69
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "DS Manohar"
+      ],
+      "reserve_umpires": [
+        "K Kelkar"
+      ],
+      "tv_umpires": [
+        "Amit Rana"
+      ],
+      "umpires": [
+        "R Pandit",
+        "T Ematty"
+      ]
+    },
+    "outcome": {
+      "winner": "Rajasthan Royals",
+      "by": {
+        "runs": 30
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "JC Archer"
+    ],
+    "players": {
+      "Rajasthan Royals": [
+        "YBK Jaiswal",
+        "V Suryavanshi",
+        "Dhruv Jurel",
+        "R Parag",
+        "MD Shanaka",
+        "D Ferreira",
+        "JC Archer",
+        "SB Dubey",
+        "RA Jadeja",
+        "N Burger",
+        "Yash Raj Punja",
+        "Brijesh Sharma"
+      ],
+      "Mumbai Indians": [
+        "Raghu Sharma",
+        "RG Sharma",
+        "RD Rickelton",
+        "Naman Dhir",
+        "SA Yadav",
+        "Tilak Varma",
+        "WG Jacks",
+        "HH Pandya",
+        "C Bosch",
+        "SN Thakur",
+        "DL Chahar",
+        "AM Ghazanfar"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AM Ghazanfar": "9ca68676",
+        "Amit Rana": "f5db088b",
+        "Brijesh Sharma": "133bbd61",
+        "C Bosch": "172dff15",
+        "D Ferreira": "f0af99a7",
+        "DL Chahar": "23eeb873",
+        "DS Manohar": "b35f3ac8",
+        "Dhruv Jurel": "bcf325d2",
+        "HH Pandya": "dbe50b21",
+        "JC Archer": "5574750c",
+        "K Kelkar": "1d88908d",
+        "MD Shanaka": "3ff033bb",
+        "N Burger": "465aa633",
+        "Naman Dhir": "fffa744b",
+        "R Pandit": "8a604384",
+        "R Parag": "04a418e8",
+        "RA Jadeja": "fe93fd9d",
+        "RD Rickelton": "e66732f8",
+        "RG Sharma": "740742ef",
+        "Raghu Sharma": "5b615e7c",
+        "SA Yadav": "271f83cd",
+        "SB Dubey": "6b2ff18f",
+        "SN Thakur": "1abb78f8",
+        "T Ematty": "e995f8e9",
+        "Tilak Varma": "b0482a1d",
+        "V Suryavanshi": "470f446b",
+        "WG Jacks": "9caf69a1",
+        "YBK Jaiswal": "6c19c6e5",
+        "Yash Raj Punja": "02dfebbe"
+      }
+    },
+    "season": "2026",
+    "team_type": "club",
+    "teams": [
+      "Rajasthan Royals",
+      "Mumbai Indians"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Mumbai Indians"
+    },
+    "venue": "Wankhede Stadium, Mumbai"
+  },
+  "innings": [
+    {
+      "team": "Rajasthan Royals",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Suryavanshi",
+              "bowler": "DL Chahar",
+              "non_striker": "YBK Jaiswal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "WG Jacks",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Suryavanshi",
+              "bowler": "WG Jacks",
+              "non_striker": "YBK Jaiswal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "WG Jacks",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "WG Jacks",
+              "non_striker": "V Suryavanshi",
+              "review": {
+                "by": "Mumbai Indians",
+                "umpire": "R Pandit",
+                "batter": "YBK Jaiswal",
+                "decision": "struck down",
+                "type": "wicket",
+                "umpires_call": true
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "WG Jacks",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Suryavanshi",
+              "bowler": "WG Jacks",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YBK Jaiswal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Suryavanshi",
+              "bowler": "WG Jacks",
+              "non_striker": "YBK Jaiswal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Suryavanshi",
+              "bowler": "DL Chahar",
+              "non_striker": "YBK Jaiswal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "DL Chahar",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "V Suryavanshi",
+              "bowler": "WG Jacks",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YBK Jaiswal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Suryavanshi",
+              "bowler": "WG Jacks",
+              "non_striker": "YBK Jaiswal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "WG Jacks",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "WG Jacks",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YBK Jaiswal",
+              "bowler": "WG Jacks",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "YBK Jaiswal",
+                  "fielders": [
+                    {
+                      "name": "C Bosch"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "WG Jacks",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "WG Jacks",
+              "non_striker": "V Suryavanshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Suryavanshi",
+              "bowler": "DL Chahar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Suryavanshi",
+                  "fielders": [
+                    {
+                      "name": "Naman Dhir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Parag",
+              "bowler": "DL Chahar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Parag",
+              "bowler": "DL Chahar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Parag",
+              "bowler": "DL Chahar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Parag",
+              "bowler": "DL Chahar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Parag",
+              "bowler": "DL Chahar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "R Parag",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "R Parag",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "R Parag",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Parag",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Parag",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Parag",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Parag",
+                  "fielders": [
+                    {
+                      "name": "Tilak Varma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "Raghu Sharma",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "Raghu Sharma",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "Raghu Sharma",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "Raghu Sharma",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "Raghu Sharma",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "Raghu Sharma",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AM Ghazanfar",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "Raghu Sharma",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "Raghu Sharma",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "Raghu Sharma",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "Raghu Sharma",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "Raghu Sharma",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "Raghu Sharma",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "SN Thakur",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "SN Thakur",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "SN Thakur",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "SN Thakur",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "SN Thakur",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MD Shanaka",
+              "bowler": "SN Thakur",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MD Shanaka",
+              "bowler": "C Bosch",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "C Bosch",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "C Bosch",
+              "non_striker": "MD Shanaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Shanaka",
+                  "fielders": [
+                    {
+                      "name": "C Bosch"
+                    },
+                    {
+                      "name": "SN Thakur"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "C Bosch",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "C Bosch",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "C Bosch",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "AM Ghazanfar",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "C Bosch",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "C Bosch",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "C Bosch",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "C Bosch",
+              "non_striker": "Dhruv Jurel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Dhruv Jurel",
+              "bowler": "C Bosch",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Dhruv Jurel",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "C Bosch",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D Ferreira",
+              "bowler": "SN Thakur",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "SN Thakur",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "SN Thakur",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "SN Thakur",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "SN Thakur",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "SN Thakur",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "D Ferreira",
+              "bowler": "Raghu Sharma",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Raghu Sharma",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "Raghu Sharma",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Raghu Sharma",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "Raghu Sharma",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "Raghu Sharma",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "JC Archer",
+              "bowler": "DL Chahar",
+              "non_striker": "D Ferreira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "DL Chahar",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D Ferreira",
+              "bowler": "DL Chahar",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ferreira",
+                  "fielders": [
+                    {
+                      "name": "C Bosch"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SB Dubey",
+              "bowler": "DL Chahar",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SB Dubey",
+              "bowler": "DL Chahar",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "DL Chahar",
+              "non_striker": "SB Dubey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SB Dubey",
+              "bowler": "C Bosch",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "C Bosch",
+              "non_striker": "SB Dubey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "C Bosch",
+              "non_striker": "SB Dubey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "C Bosch",
+              "non_striker": "SB Dubey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "C Bosch",
+              "non_striker": "SB Dubey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Dubey",
+              "bowler": "C Bosch",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SB Dubey",
+              "bowler": "SN Thakur",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "SN Thakur",
+              "non_striker": "SB Dubey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "SN Thakur",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SB Dubey",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "SN Thakur",
+              "non_striker": "SB Dubey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Dubey",
+              "bowler": "SN Thakur",
+              "non_striker": "JC Archer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SB Dubey",
+                  "fielders": [
+                    {
+                      "name": "Naman Dhir"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SN Thakur",
+              "non_striker": "JC Archer",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "RA Jadeja",
+                    "out": "SB Dubey",
+                    "team": "Rajasthan Royals",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JC Archer",
+              "bowler": "SN Thakur",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JC Archer",
+                  "fielders": [
+                    {
+                      "name": "Tilak Varma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "RA Jadeja",
+              "bowler": "C Bosch",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "C Bosch",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "C Bosch",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "C Bosch",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "C Bosch",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "C Bosch",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "C Bosch",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SN Thakur",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SN Thakur",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Burger",
+              "bowler": "SN Thakur",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SN Thakur",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SN Thakur",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SN Thakur",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SN Thakur",
+              "non_striker": "N Burger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Mumbai Indians",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "replacements": {
+                "match": [
+                  {
+                    "in": "RG Sharma",
+                    "out": "Raghu Sharma",
+                    "team": "Mumbai Indians",
+                    "reason": "impact_player"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RG Sharma",
+                  "fielders": [
+                    {
+                      "name": "Dhruv Jurel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Naman Dhir",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Rickelton",
+              "bowler": "JC Archer",
+              "non_striker": "Naman Dhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Naman Dhir",
+              "bowler": "N Burger",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Naman Dhir",
+              "bowler": "N Burger",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Rickelton",
+              "bowler": "N Burger",
+              "non_striker": "Naman Dhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Rickelton",
+              "bowler": "N Burger",
+              "non_striker": "Naman Dhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Rickelton",
+              "bowler": "N Burger",
+              "non_striker": "Naman Dhir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RD Rickelton",
+              "bowler": "N Burger",
+              "non_striker": "Naman Dhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RD Rickelton",
+              "bowler": "JC Archer",
+              "non_striker": "Naman Dhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Naman Dhir",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Naman Dhir",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Naman Dhir",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "JC Archer",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SA Yadav",
+              "bowler": "N Burger",
+              "non_striker": "RD Rickelton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Rickelton",
+              "bowler": "N Burger",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RD Rickelton",
+                  "fielders": [
+                    {
+                      "name": "V Suryavanshi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "N Burger",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "N Burger",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "N Burger",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "N Burger",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Tilak Varma",
+              "bowler": "JC Archer",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "JC Archer",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "JC Archer",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "JC Archer",
+              "non_striker": "Tilak Varma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "JC Archer",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Tilak Varma",
+              "bowler": "JC Archer",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Tilak Varma",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tilak Varma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Brijesh Sharma",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SA Yadav",
+              "bowler": "RA Jadeja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "RA Jadeja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "RA Jadeja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "RA Jadeja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "RA Jadeja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "RA Jadeja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "WG Jacks",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SA Yadav",
+              "bowler": "RA Jadeja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "RA Jadeja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "RA Jadeja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "RA Jadeja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "RA Jadeja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "RA Jadeja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "WG Jacks",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "WG Jacks",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "WG Jacks",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "WG Jacks",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WG Jacks",
+                  "fielders": [
+                    {
+                      "name": "Dhruv Jurel"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "Yash Raj Punja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SA Yadav",
+              "bowler": "MD Shanaka",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "MD Shanaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "MD Shanaka",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "MD Shanaka",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "MD Shanaka",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "MD Shanaka",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "MD Shanaka",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "HH Pandya",
+              "bowler": "N Burger",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "N Burger",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "N Burger",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "N Burger",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "N Burger",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "N Burger",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SA Yadav",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "HH Pandya",
+              "bowler": "JC Archer",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "JC Archer",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "JC Archer",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HH Pandya",
+              "bowler": "JC Archer",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HH Pandya",
+                  "fielders": [
+                    {
+                      "name": "N Burger"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "JC Archer",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "JC Archer",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "C Bosch",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "C Bosch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bosch",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bosch",
+                  "fielders": [
+                    {
+                      "name": "D Ferreira"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "Yash Raj Punja",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SN Thakur",
+              "bowler": "N Burger",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "N Burger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "N Burger",
+              "non_striker": "SA Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "N Burger",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Yadav",
+              "bowler": "N Burger",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Yadav",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "DL Chahar",
+              "bowler": "N Burger",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DL Chahar",
+              "bowler": "N Burger",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DL Chahar",
+              "bowler": "N Burger",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SN Thakur",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "DL Chahar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Chahar",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Chahar",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SN Thakur",
+              "review": {
+                "by": "Mumbai Indians",
+                "umpire": "T Ematty",
+                "batter": "DL Chahar",
+                "decision": "struck down",
+                "type": "wicket"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DL Chahar",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "AM Ghazanfar",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "AM Ghazanfar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Ghazanfar",
+              "bowler": "Brijesh Sharma",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SN Thakur",
+              "bowler": "MD Shanaka",
+              "non_striker": "AM Ghazanfar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "MD Shanaka",
+              "non_striker": "AM Ghazanfar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "MD Shanaka",
+              "non_striker": "AM Ghazanfar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "MD Shanaka",
+              "non_striker": "AM Ghazanfar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Ghazanfar",
+              "bowler": "MD Shanaka",
+              "non_striker": "SN Thakur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SN Thakur",
+              "bowler": "MD Shanaka",
+              "non_striker": "AM Ghazanfar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 206
+      }
+    }
+  ]
+}
